@@ -8,9 +8,14 @@ A production-ready NLP system that classifies **English** and **Indonesian** res
 
 ```bash
 # 1) Get the code
-# Option A: If you have the project folder locally, cd into it:
+# Option A: Clone from GitHub (recommended)
+git clone https://github.com/username/multilingual-restaurant-sentiment.git
 cd multilingual-restaurant-sentiment
-# Option B: If you're viewing this on GitHub, click “Code” → “Download ZIP”,
+
+# Option B: If you have the project folder locally, cd into it:
+cd multilingual-restaurant-sentiment
+
+# Option C: If you're viewing this on GitHub, click “Code” → “Download ZIP”,
 # unzip it, then:
 cd multilingual-restaurant-sentiment
 
@@ -37,7 +42,7 @@ python -m src.evaluation.evaluate --which both
 # 7) Serve API + minimal UI (IMPORTANT: run as a module)
 python -m app.server
 # Then open http://localhost:8000
-````
+```
 
 ---
 
@@ -473,5 +478,7 @@ This ensures the project root is on `sys.path` so `src` imports resolve correctl
 
 ## 👨‍💻 Contact
 
-**Rahman**
-Email: **[211110108@student.mercubuana-yogya.ac.id](mailto:211110108@student.mercubuana-yogya.ac.id)**
+Maintainer: **Rahman**
+
+* Email: **[211110108@student.mercubuana-yogya.ac.id](mailto:211110108@student.mercubuana-yogya.ac.id)**
+* GitHub: **@username**
