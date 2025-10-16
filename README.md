@@ -2,14 +2,25 @@
 
 A production-ready NLP system that classifies **English** and **Indonesian** restaurant reviews into **negative / neutral / positive**, returning **confidence scores**, **per-class probabilities**, and **low-confidence advisories** to support human-in-the-loop decisions. The project includes a complete data pipeline, training with mBERT, transparent evaluation, and a lightweight Flask API with a built-in demo UI.
 
+## Table of Contents
+- [Quick Start](#quick-start)
+- [Features](#features)
+- [Architecture](#architecture)
+- [API Documentation](#api-documentation)
+- [Project Layout](#project-layout)
+- [Using Your Own Data](#using-your-own-data)
+- [Local Tips & Troubleshooting](#local-tips--troubleshooting)
+- [License](#license)
+- [Contact](#contact)
+
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start <a name="quick-start"></a>
 
 ```bash
 # 1) Get the code
 # Option A: Clone from GitHub (recommended)
-git clone https://github.com/username/multilingual-restaurant-sentiment.git
+git clone https://github.com/swanfame/multilingual-restaurant-sentiment.git
 cd multilingual-restaurant-sentiment
 
 # Option B: If you have the project folder locally, cd into it:
@@ -46,7 +57,7 @@ python -m app.server
 
 ---
 
-## ✨ Features
+## ✨ Features <a name="features"></a>
 
 * **Multilingual mBERT classifier**
   One model for English & Indonesian; robust tokenization and conservative multilingual text cleaning (URLs/emails redacted, emojis demojized).
@@ -71,7 +82,7 @@ python -m app.server
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture <a name="architecture"></a>
 
 **Tech Stack**
 
@@ -98,7 +109,7 @@ python -m app.server
 
 ---
 
-## 📖 API Documentation
+## 📖 API Documentation <a name="api-documentation"></a>
 
 ### `GET /health`
 
@@ -195,7 +206,7 @@ Stores human-verified labels for continuous learning.
 
 ---
 
-## 📂 Project Layout
+## 📂 Project Layout <a name="project-layout"></a>
 
 ```
 ├─ app/                    # Flask app (API + minimal UI)
@@ -237,7 +248,7 @@ Stores human-verified labels for continuous learning.
 
 ---
 
-## 🔄 Using Your Own Data
+## 🔄 Using Your Own Data <a name="using-your-own-data"></a>
 
 This section shows how to train the system **from scratch with your datasets**, keep it improving with **continuous learning**, and **customize** it for new domains, languages, or label schemes.
 
@@ -441,7 +452,7 @@ If you want a 4-class scheme (e.g., **very_negative**, **negative**, **neutral**
 
 ---
 
-## 🧪 Local Tips & Troubleshooting
+## 🧪 Local Tips & Troubleshooting <a name="local-tips--troubleshooting"></a>
 
 - **Start the server as a module** 
 
@@ -470,13 +481,13 @@ This ensures the project root is on `sys.path` so `src` imports resolve correctl
 
 ---
 
-## 📄 License
+## 📄 License <a name="license"></a>
 
 **MIT** — see the [`LICENSE`](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Contact
+## 👨‍💻 Contact <a name="contact"></a>
 
 Maintainer: **Rahman**
 
