@@ -20,7 +20,7 @@ A production-ready NLP system that classifies **English** and **Indonesian** res
 ```bash
 # 1) Get the code
 # Option A: Clone from GitHub (recommended)
-git clone https://github.com/swanfame/multilingual-restaurant-sentiment.git
+git clone https://github.com/swanframe/multilingual-restaurant-sentiment.git
 cd multilingual-restaurant-sentiment
 
 # Option B: If you have the project folder locally, cd into it:
