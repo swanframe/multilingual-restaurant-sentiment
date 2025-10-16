@@ -1,0 +1,501 @@
+text,language,sentiment
+"The pizza here is absolutely fantastic, crispy crust and fresh toppings. Service was quick too!",en,positive
+Loved the ambiance and the steak was cooked perfectly. Will come back soon.,en,positive
+"Great sushi rolls, fresh fish and nice presentation. Friendly staff.",en,positive
+"The burgers are juicy and flavorful, best in town. Fries were hot and crispy.",en,positive
+Delicious Mexican tacos with authentic flavors. Margaritas were spot on.,en,positive
+"Wonderful Indian curry, spicy just right. Naan bread was soft and warm.",en,positive
+Seafood platter was fresh and generous portions. Lovely ocean view.,en,positive
+The pasta carbonara was creamy and rich. Dessert tiramisu was heavenly.,en,positive
+"Amazing Thai pad see ew, perfect balance of sweet and savory.",en,positive
+Cozy cafe with excellent coffee and pastries. Relaxing atmosphere.,en,positive
+Vegan options were diverse and tasty. The salad was fresh.,en,positive
+"BBQ ribs fell off the bone, smoky and tender. Sides were great too.",en,positive
+"French onion soup was flavorful, croissants flaky. Elegant setting.",en,positive
+Dim sum was steaming hot and delicious. Variety was impressive.,en,positive
+Greek gyros with tzatziki sauce hit the spot. Fresh ingredients.,en,positive
+The ramen broth was rich and noodles al dente. Toppings generous.,en,positive
+Breakfast burrito was huge and filling. Coffee was strong.,en,positive
+"Falafel wrap was crispy outside, soft inside. Hummus smooth.",en,positive
+Pho soup was aromatic and comforting. Beef tender.,en,positive
+Gelato flavors were unique and creamy. Perfect for a hot day.,en,positive
+The paella had lots of seafood and saffron rice was perfect.,en,positive
+Korean bibimbap with gochujang sauce was spicy and yummy.,en,positive
+Bagels were chewy and toppings fresh. Great morning spot.,en,positive
+Lobster roll was buttery and fresh. Chips on the side crisp.,en,positive
+"Pancakes fluffy, syrup sweet. Bacon crispy.",en,positive
+Empanadas were flaky and filling flavorful. Salsa zesty.,en,positive
+Cheese fondue was gooey and fun to dip. Wine selection good.,en,positive
+Jerk chicken spicy and juicy. Rice and peas perfect side.,en,positive
+Crepes thin and filled generously. Sweet and savory options.,en,positive
+The wok-fried noodles were wok hei flavorful. Veggies crisp.,en,positive
+Food was bland and overpriced. Waited too long for the bill.,en,negative
+"Burger was dry, fries soggy. Service rude.",en,negative
+"Sushi tasted fishy, not fresh. Overcharged.",en,negative
+"Pasta was mushy, sauce too salty. Noisy place.",en,negative
+"Tacos fell apart, meat greasy. Dirty tables.",en,negative
+"Curry lacked spice, naan burnt. Slow service.",en,negative
+"Seafood was rubbery, portions small. Expensive.",en,negative
+"Pad thai was too sweet, noodles clumped. Unfriendly staff.",en,negative
+"Coffee bitter, pastries stale. Crowded and loud.",en,negative
+"Vegan burger fell apart, tasteless. Overhyped.",en,negative
+"The steak was okay, but sides were cold. Average experience.",en,neutral
+"Pizza was decent, nothing special. Service fine.",en,neutral
+"Sushi rolls standard, not outstanding. Clean place.",en,neutral
+"Burgers alright, fries okay. Typical fast food.",en,neutral
+"Mexican food was fair, portions good. Busy spot.",en,neutral
+"Indian dishes mediocre, spice level off. Okay ambiance.",en,neutral
+"Seafood platter average, fresh but bland. View nice.",en,neutral
+"Pasta was fine, sauce alright. Nothing memorable.",en,neutral
+"Thai food standard, not spicy enough. Quick service.",en,neutral
+"Cafe coffee was okay, pastries fresh-ish. Cozy but crowded.",en,neutral
+"Makanannya enak banget, sate ayamnya empuk dan bumbunya meresap. Pelayanan ramah.",id,positive
+"Nasi goreng spesial di sini mantap, pedasnya pas. Tempat nyaman.",id,positive
+"Soto ayamnya gurih, kuahnya kental. Bakso enak juga.",id,positive
+"Gado-gado segar, bumbu kacangnya kental dan manis. Rekomendasi!",id,positive
+"Rendang dagingnya empuk, santan kental. Nasi panas.",id,positive
+"Bakmi ayamnya al dente, topping melimpah. Supnya hangat.",id,positive
+"Seafood bakar fresh, ikan gurame goreng renyah. Sambal mantap.",id,positive
+"Martabak manisnya tebal, topping keju coklat melimpah. Enak!",id,positive
+"Kopi susunya creamy, roti bakar enak. Cafe cozy.",id,positive
+"Ayam gepreknya pedas nampol, nasi putih pulen. Murah meriah.",id,positive
+"Nasi liwetnya wangi, lauk pauk lengkap. Keluarga suka.",id,positive
+"Pecel lele gorengnya crispy, lalapan segar. Sambal terasi jos.",id,positive
+"Bubur ayamnya lembut, topping kacang goreng enak. Sarapan mantap.",id,positive
+"Sate kambingnya juicy, bumbu kecap manis. Gak amis.",id,positive
+"Rawon dagingnya empuk, kuah hitam kental. Nasi hangat.",id,positive
+"Es campur segar, buah-buahan fresh. Manisnya pas.",id,positive
+"Nasi uduknya gurih, ayam goreng renyah. Telur dadar enak.",id,positive
+"Gulai ikannya pedas, santan kental. Lauk sayur mantap.",id,positive
+"Bakso malangnya kenyal, kuah kaldu enak. Mie kuning al dente.",id,positive
+"Sop buntutnya empuk, kuah bening. Wortel segar.",id,positive
+"Tahu gejrotnya asam manis, tahu lembut. Camilan enak.",id,positive
+"Nasi kuningnya wangi, lauk telur balado pedas. Sarapan favorit.",id,positive
+"Cendol dawetnya segar, gula merah legit. Santan kental.",id,positive
+"Ayam penyetnya sambalnya mantap, ayam empuk. Nasi banyak.",id,positive
+"Sate padangnya kuah kental, daging empuk. Ketupat lembut.",id,positive
+"Mie ayam pangsitnya enak, bakso halus. Kuah gurih.",id,positive
+"Ikan bakar jimbarannya fresh, sambal matah pedas. View pantai bagus.",id,positive
+"Roti canai nya flaky, kuah kari kental. Sarapan enak.",id,positive
+"Nasi campur balinya lengkap, sate lilit enak. Babi guling juicy.",id,positive
+"Kleponnya manis, kelapa parut segar. Jajanan pasar mantap.",id,positive
+"Makanan hambar, nasi dingin. Pelayanan lambat.",id,negative
+"Sate gosong, bumbu kurang meresap. Mahal.",id,negative
+"Soto kuahnya asin banget, daging alot. Kecewa.",id,negative
+"Gado-gado layu, bumbu encer. Tempat kotor.",id,negative
+"Rendang keras, santan pecah. Nasi basi.",id,negative
+"Bakmi lembek, topping sedikit. Sup dingin.",id,negative
+"Seafood amis, ikan tidak segar. Sambal hambar.",id,negative
+"Martabak tipis, topping pelit. Gak enak.",id,negative
+"Kopi pahit, roti gosong. Cafe berisik.",id,negative
+Ayam geprek garing tapi asin. Nasi keras.,id,negative
+"Steaknya biasa aja, kentang dingin. Harga standar.",id,neutral
+"Pizza oke, tapi topping kurang banyak. Layanan cepat.",id,neutral
+"Sushi standar, ikan segar tapi wasabi kurang. Tempat bersih.",id,neutral
+"Burger lumayan, roti empuk. Fries biasa.",id,neutral
+"Taco fillingnya oke, tortilla agak kering. Murah.",id,neutral
+"Curry biasa, naan lembut. Spice level sedang.",id,neutral
+"Seafood platter lumayan, udang segar. Porsi cukup.",id,neutral
+"Pasta al dente, sauce okay. Tidak spesial.",id,neutral
+"Pad thai manisnya pas, tapi kurang pedas. Cepat saji.",id,neutral
+"Kopi biasa, pastry fresh. Tempat ramai.",id,neutral
+"The falafel was crispy and flavorful, hummus smooth. Great vegan spot.",en,positive
+Chicken tikka masala creamy and spicy. Rice fluffy.,en,positive
+Lobster bisque rich and creamy. Bread basket fresh.,en,positive
+"Veggie stir fry fresh veggies, sauce tangy.",en,positive
+Croissants buttery and flaky. Coffee aromatic.,en,positive
+Tiramisu light and espresso-soaked. Perfect end.,en,positive
+"Pho with rare beef, herbs fresh. Broth deep.",en,positive
+"Shawarma wrap juicy meat, garlic sauce creamy.",en,positive
+"Pancakes with blueberries, syrup real maple.",en,positive
+"Sashimi platter fresh, wasabi strong.",en,positive
+Enchiladas cheesy and spicy. Rice and beans good.,en,positive
+"Lamb chops grilled perfectly, mint sauce fresh.",en,positive
+Donuts glazed and soft. Coffee hot.,en,positive
+Paella with chorizo and shrimp. Saffron rice aromatic.,en,positive
+"Bibimbap with egg, veggies crisp.",en,positive
+Bagel with lox and cream cheese. Fresh.,en,positive
+"Clam chowder creamy, clams tender.",en,positive
+Crepe with Nutella and bananas. Sweet treat.,en,positive
+"Ramen with pork belly, egg soft.",en,positive
+Falafel plate with tahini. Pita soft.,en,positive
+"Burrito with carnitas, guac fresh.",en,positive
+Curry goat spicy and tender. Roti flaky.,en,positive
+"Omelette fluffy, cheese melted.",en,positive
+"Samosas crispy, filling spiced.",en,positive
+Lobster mac and cheese gooey. Truffle oil nice.,en,positive
+"Spring rolls fresh, peanut sauce tasty.",en,positive
+Waffles with fried chicken. Syrup sweet.,en,positive
+"Empanadas beef-filled, salsa spicy.",en,positive
+Fondue chocolate with fruits. Fun dessert.,en,positive
+Jambalaya with sausage and shrimp. Spicy rice.,en,positive
+"Steak overcooked, sauce bland. Disappointing.",en,negative
+"Pizza crust soggy, toppings sparse. Slow delivery.",en,negative
+"Sushi rolls fell apart, rice sticky. Overpriced.",en,negative
+"Burger patty burnt, bun stale. Rude waiter.",en,negative
+"Tacos shell cracked, filling dry. No flavor.",en,negative
+"Curry watery, meat tough. Noisy environment.",en,negative
+"Seafood salad wilted, fish smelly. Bad experience.",en,negative
+"Pasta sauce clumpy, noodles overboiled. Dirty forks.",en,negative
+"Coffee watered down, muffin dry. Crowded seating.",en,negative
+"Vegan wrap soggy, veggies old. Not worth it.",en,negative
+"The tacos were alright, but guac extra charge. Okay spot.",en,neutral
+"Pizza average, cheese stretchy. Delivery on time.",en,neutral
+"Sushi fine, soy sauce standard. Quiet place.",en,neutral
+"Burger decent, onions fresh. Typical.",en,neutral
+"Curry okay, naan warm. Spice mild.",en,neutral
+"Seafood chowder fair, bread okay. View average.",en,neutral
+"Pasta portion good, taste standard. Service neutral.",en,neutral
+"Thai soup tangy, but not hot. Alright.",en,neutral
+"Coffee brew okay, atmosphere fine. Nothing wow.",en,neutral
+"Vegan salad fresh-ish, dressing bland. Passable.",en,neutral
+"Sate marangginya empuk, bumbu kacang legit. Tempat asyik.",id,positive
+"Nasi padangnya lengkap, gulai tunjang enak. Pedasnya nendang.",id,positive
+"Soto betawinya gurih, daging empuk. Kerupuk renyah.",id,positive
+"Pempek palembang asli, cuko pedas manis. Kapal selam enak.",id,positive
+Rendang minangkabau dagingnya lembut. Santan kental.,id,positive
+"Bakso uratnya kenyal, kuah kaldu mantap. Mie enak.",id,positive
+"Ikan pepesnya wangi, daun pisang fresh. Sambal dadak.",id,positive
+"Martabak telornya crispy, kuah cuka enak. Isi daging banyak.",id,positive
+"Kopi luwaknya aromatik, pahitnya pas. Cafe santai.",id,positive
+"Ayam taliwangnya pedas, ayam bakar juicy. Nasi putih pulen.",id,positive
+Nasi timbel sunda lauknya komplit. Sambal lalab segar.,id,positive
+"Lele penyet sambalnya jos, lele goreng garing. Murah.",id,positive
+"Bubur sumsumnya lembut, gula merah cair. Santan gurih.",id,positive
+Sate madura daging kambing empuk. Bumbu kecap manis.,id,positive
+"Opor ayamnya santan kental, ayam empuk. Nasi hangat.",id,positive
+"Es doger segar, kacang merah manis. Kelapa muda enak.",id,positive
+"Nasi bogana lauknya variatif, telur pindang enak.",id,positive
+"Gulai kambingnya pedas, daging lembut. Roti jala mantap.",id,positive
+"Bakso bakar sausnya enak, bakso kenyal. Camilan mantap.",id,positive
+"Sop iga sapi kuahnya bening, iga empuk. Sayur segar.",id,positive
+"Tahu tek telornya gurih, bumbu petis manis. Lontong lembut.",id,positive
+"Nasi kapau rendangnya enak, sayur nangka gurih.",id,positive
+"Dawet ayu segar, cendol kenyal. Gula cair legit.",id,positive
+"Ayam bakar madu manis pedas, ayam juicy. Nasi banyak.",id,positive
+"Sate kerang kuahnya kental, kerang fresh. Ketupat enak.",id,positive
+"Mie goreng jawa pedasnya pas, telur ceplok enak.",id,positive
+"Bebek goreng sambalnya mantap, bebek empuk. Lalapan segar.",id,positive
+Roti bakar bandung topping melimpah. Keju leleh.,id,positive
+"Nasi ayam hainan nasi wangi, ayam steamed lembut.",id,positive
+"Kue putu mayang manis, santan kental. Jajanan tradisional enak.",id,positive
+"Makanan terlalu pedas, nasi lembek. Pelayanan cuek.",id,negative
+"Sate ayam alot, bumbu encer. Tempat panas.",id,negative
+"Soto dagingnya keras, kuah hambar. Mahal banget.",id,negative
+"Gado-gado sayurnya layu, kacang kurang halus. Kotor.",id,negative
+"Rendang santan pecah, daging kering. Nasi dingin.",id,negative
+"Bakmi ayam topping pelit, mie overcooked. Sup asin.",id,negative
+"Seafood bakar amis, ikan gosong. Sambal kurang.",id,negative
+"Martabak manis gosong, isian sedikit. Gak recommended.",id,negative
+"Kopi terlalu manis, roti kering. Cafe berantakan.",id,negative
+"Ayam geprek sambalnya hambar, ayam dingin. Kecewa.",id,negative
+"Burgernya standar, daging tipis. Saus oke.",id,neutral
+"Pizza topping lumayan, crust tebal. Pengiriman tepat.",id,neutral
+"Sushi rolls biasa, ikan okay. Tempat sepi.",id,neutral
+"Steak medium rare, tapi saus kurang. Harga wajar.",id,neutral
+"Taco shell crispy, isi daging cukup. Tidak spesial.",id,neutral
+"Curry ayam manis, nasi pulen. Spice sedang.",id,neutral
+"Seafood soup bening, udang segar. Porsi kecil.",id,neutral
+"Pasta carbonara creamy, tapi bacon sedikit. Biasa aja.",id,neutral
+"Pad see ew noodles al dente, sayur okay. Cepat.",id,neutral
+"Kopi latte foamnya bagus, rasa standar. Tempat nyaman.",id,neutral
+The sushi was fresh and the rolls were creative. Great sake selection.,en,positive
+Steak was tender and seasoned well. Mashed potatoes creamy.,en,positive
+Pasta primavera with fresh veggies. Light and tasty.,en,positive
+Tacos al pastor spicy and juicy. Tortillas handmade.,en,positive
+Curry laksa broth coconutty and spicy. Noodles perfect.,en,positive
+"Fish and chips batter crispy, fish flaky.",en,positive
+Vegan burger with avocado. Fries seasoned.,en,positive
+Dim sum variety steamed perfectly. Tea hot.,en,positive
+Breakfast omelette with veggies and cheese. Toast buttered.,en,positive
+Gelato pistachio creamy and nutty. Cone crisp.,en,positive
+Paella Valenciana with rabbit and beans. Authentic.,en,positive
+Korean fried chicken crispy and saucy.,en,positive
+"Bagels everything seasoning, cream cheese smooth.",en,positive
+Lobster thermidor cheesy and rich. Side salad fresh.,en,positive
+Crepes savory with ham and cheese. Delicious.,en,positive
+Ramen tonkotsu broth creamy. Chashu tender.,en,positive
+Falafel balls spiced well. Yogurt sauce cool.,en,positive
+Burrito bowl with rice and beans. Salsa fresh.,en,positive
+Jerk pork smoky and spicy. Plantains sweet.,en,positive
+Pancakes buttermilk fluffy. Berries fresh.,en,positive
+Samosa chat with chickpeas. Tangy chutney.,en,positive
+Clams linguine garlicky. Wine sauce light.,en,positive
+"Waffles Belgian style, whipped cream.",en,positive
+"Empanadas chicken filled, dough flaky.",en,positive
+Fondue cheese blend melty. Bread cubes fresh.,en,positive
+Gumbo with okra and sausage. Rice steamed.,en,positive
+"Spring rolls veggie filled, dipping sauce sweet.",en,positive
+Doner kebab meat shaved thin. Pita warm.,en,positive
+Oysters fresh on half shell. Lemon wedge.,en,positive
+Biryani lamb aromatic spices. Raita cooling.,en,positive
+"Food arrived cold, portions tiny. Overhyped spot.",en,negative
+"Sushi fish not fresh, rice vinegary too much.",en,negative
+"Steak chewy, no flavor. Waitress forgot order.",en,negative
+"Pasta gluey, sauce from can. Noisy kids.",en,negative
+"Tacos greasy, shells stale. Bad salsa.",en,negative
+"Curry bland, veggies mushy. Expensive rice.",en,negative
+"Vegan options limited, tasted processed. Slow.",en,negative
+"Dim sum cold, wrappers torn. Tea weak.",en,negative
+"Breakfast eggs runny, bacon burnt. Coffee cold.",en,negative
+"Gelato melted fast, flavors artificial. Crowded.",en,negative
+"The curry was mild, rice okay. Standard fare.",en,neutral
+"Sushi average quality, presentation fine.",en,neutral
+"Steak cooked medium, sides warm. Typical.",en,neutral
+"Pasta portion fair, taste neutral. Busy.",en,neutral
+"Tacos filling okay, tortillas soft. Quick.",en,neutral
+"Vegan salad greens fresh, dressing plain.",en,neutral
+"Dim sum selection okay, steamed alright.",en,neutral
+"Breakfast sandwich decent, coffee hot.",en,neutral
+"Gelato scoops generous, flavors standard.",en,neutral
+"Paella rice cooked, seafood mixed. Alright.",en,neutral
+"Sate taichannya empuk, saus kacang pedas manis. Mantap!",id,positive
+Nasi goreng kampung lauknya komplit. Telur mata sapi enak.,id,positive
+Soto lamongan kuahnya kuning gurih. Ayam suwir lembut.,id,positive
+Pempek lenjer kapal selamnya enak. Cuko asam pedas.,id,positive
+Rendang paru keringnya crispy. Santan meresap.,id,positive
+Bakso cuanki bandung mie enak. Kuah bening.,id,positive
+Ikan asin jambalnya gurih. Nasi liwet wangi.,id,positive
+Martabak keju susunya tebal. Coklat meleleh.,id,positive
+"Kopi tubruknya strong, gula aren manis. Santai.",id,positive
+"Ayam kremesnya renyah, sambal bawang pedas. Nasi pulen.",id,positive
+Nasi ulam betawi lauknya variatif. Kerak telor enak.,id,positive
+Lele bakar madu manis. Lalapan segar.,id,positive
+Bubur kacang hijau santannya kental. Roti tawar enak.,id,positive
+Sate ayam ponorogo bumbunya khas. Empuk.,id,positive
+Opor lebaran ayam kampung. Kuah santan legit.,id,positive
+Es teler buahnya fresh. Susu kental manis.,id,positive
+Nasi pecel madiun bumbu kacangnya enak. Rempeyek renyah.,id,positive
+Gulai otak sapi creamy. Nasi minyak wangi.,id,positive
+Bakso goreng meledak enak. Kuah bakso gurih.,id,positive
+Sop kaki kambing dagingnya lembut. Kuah panas.,id,positive
+Tahu campur lamongannya segar. Bumbu petis mantap.,id,positive
+Nasi kuning manado ikan cakalang enak. Pedas.,id,positive
+Ronde jahe hangatnya pas. Kacang tanah gurih.,id,positive
+Ayam rica-rica minahasa pedasnya nampol. Daun kemangi wangi.,id,positive
+Sate bulayak kuah gulai kental. Daging empuk.,id,positive
+Mie aceh seafoodnya fresh. Mie kuning al dente.,id,positive
+Bebek madura sambalnya hitam pedas. Bebek goreng crispy.,id,positive
+Roti john singapore keju leleh. Isi daging enak.,id,positive
+Nasi lemak malaysia santan gurih. Ayam rendang juicy.,id,positive
+Kue ape tipis crispy. Manisnya pas. Jajanan enak.,id,positive
+"Makanan basi, pelayanan buruk. Tempat bau.",id,negative
+"Sate kambing amis, bumbu kurang. Gosong.",id,negative
+Soto ayam kuahnya berminyak. Daging sedikit.,id,negative
+"Gado-gado bumbu encer, sayur busuk. Mahal.",id,negative
+"Rendang ayam alot, santan encer. Nasi keras.",id,negative
+"Bakmi seafood amis, mie lembek. Topping pelit.",id,negative
+"Ikan bakar gosong, sambal hambar. Tempat kotor.",id,negative
+"Martabak telor lembek, isian kurang. Gak enak.",id,negative
+"Kopi susu terlalu encer, roti basi. Berisik.",id,negative
+"Ayam penyet ayamnya kering, sambal kurang pedas.",id,negative
+"Sushi biasa, wasabi kurang tajam. Harga oke.",id,neutral
+"Pizza crust tipis, topping standar. Cepat saji.",id,neutral
+Burger dagingnya juicy tapi bun kering. Fries lumayan.,id,neutral
+"Steak well done, saus bbq okay. Tempat ramai.",id,neutral
+"Taco isi ayam, shell okay. Tidak pedas.",id,neutral
+"Curry jepang mild, nasi pulen. Biasa.",id,neutral
+"Seafood platter mixed, cumi segar. Porsi sedang.",id,neutral
+"Pasta aglio olio pedasnya pas, tapi minyak banyak.",id,neutral
+"Pad thai seafood fresh-ish, kacang tanah enak. Standar.",id,neutral
+"Kopi espresso strong, foam latte art okay. Cafe biasa.",id,neutral
+The pizza dough was handmade and toppings generous. Sauce tangy.,en,positive
+"Burger with caramelized onions, cheese melted perfectly.",en,positive
+"Sushi omakase fresh fish, chef's choice excellent.",en,positive
+"Tacos fish battered crispy, slaw fresh.",en,positive
+"Curry massaman peanuts crunchy, beef tender.",en,positive
+Fish grilled with lemon herb. Sides roasted veggies.,en,positive
+"Vegan lasagna layers flavorful, cheese alternative good.",en,positive
+"Dim sum shrimp dumplings translucent, filling juicy.",en,positive
+Breakfast French toast cinnamon dusted. Syrup warm.,en,positive
+Ice cream sundae with hot fudge. Cherries on top.,en,positive
+Tapas patatas bravas spicy sauce. Olives marinated.,en,positive
+"Korean bulgogi marinated well, grilled smoky.",en,positive
+Bagel sandwich with turkey and avocado. Fresh.,en,positive
+Lobster ravioli in cream sauce. Truffle shavings.,en,positive
+Crepe buckwheat with spinach and goat cheese.,en,positive
+"Ramen spicy miso, corn sweet.",en,positive
+Hummus plate with pita triangles. Olive oil drizzle.,en,positive
+"Burrito veggie packed, rice seasoned.",en,positive
+"Curry chicken Jamaican style, thyme aromatic.",en,positive
+"Pancakes chocolate chip, whipped cream.",en,positive
+"Pakora onion crispy, chutney minty.",en,positive
+"Calamari fried tender, aioli garlic.",en,positive
+Waffles with strawberries and cream. Powdered sugar.,en,positive
+Empanadas veggie spinach and cheese. Salsa verde.,en,positive
+Fondue fruit dipped in chocolate. Marshmallows too.,en,positive
+Etouffee crawfish spicy roux. Rice fluffy.,en,positive
+Summer rolls shrimp and herbs. Peanut dip.,en,positive
+"Gyro lamb sliced thin, tzatziki creamy.",en,positive
+Mussels in white wine sauce. Bread for dipping.,en,positive
+"Tandoori chicken yogurt marinated, charred nicely.",en,positive
+"Pizza burnt edges, cheese greasy. Delivery late.",en,negative
+"Sushi warm rice, fish slimy. Bad.",en,negative
+"Steak fatty, no sear. Potatoes lumpy.",en,negative
+"Pasta dry, no sauce. Salad wilted.",en,negative
+"Tacos bland meat, tortillas torn. Sour cream watery.",en,negative
+"Curry oily, spices missing. Naan tough.",en,negative
+"Vegan soup thin, veggies overcooked. Bread stale.",en,negative
+"Dim sum greasy, fillings bland. Service slow.",en,negative
+"Breakfast muffin dry, eggs cold. Juice watered.",en,negative
+"Ice cream grainy, flavors weak. Expensive scoops.",en,negative
+"The sushi was standard, nothing exciting. Clean.",en,neutral
+"Steak average cut, cooked okay. Sides fine.",en,neutral
+"Pasta sauce tomatoey, noodles firm. Typical.",en,neutral
+"Tacos shells crisp, filling adequate. Quick lunch.",en,neutral
+"Curry heat medium, rice sticky. Alright.",en,neutral
+"Vegan wrap fillings fresh, but wrap dry.",en,neutral
+"Dim sum hot, variety okay. Tea standard.",en,neutral
+"Breakfast burrito filling, spice mild.",en,neutral
+"Ice cream creamy, toppings extra. Busy shop.",en,neutral
+"Tapas portions small, tastes neutral. Bar atmosphere.",en,neutral
+Sate buntel solonya empuk banget. Bumbu meresap dalam.,id,positive
+Nasi goreng mawut campurannya lengkap. Bakso enak.,id,positive
+Soto kudus kuahnya bening gurih. Ayam kampung lembut.,id,positive
+Pempek adaan gorengnya crispy. Cuko kental pedas.,id,positive
+"Rendang jengkolnya unik, jengkol empuk. Santan gurih.",id,positive
+Bakso tahu sumedang tahunya lembut. Kuah kaldu enak.,id,positive
+Ikan patin tempoyak asam pedasnya mantap. Ikan fresh.,id,positive
+Martabak pandan hijau wanginya enak. Isi kacang coklat.,id,positive
+Kopi jos arang panasnya pas. Gula jawa manis.,id,positive
+Ayam pop padang ayamnya empuk. Sambal hijau pedas.,id,positive
+Nasi gemuk jambi lauk ikan asin enak. Santan kental.,id,positive
+Lele sambal ijo sambalnya nendang. Lele goreng renyah.,id,positive
+Bubur pedas kalimantan rasanya unik. Ikan pari enak.,id,positive
+Sate lilit balinya wangi serai. Daging cincang empuk.,id,positive
+Opor bebek santan kuningnya gurih. Bebek lembut.,id,positive
+Es pisang ijo makassar pisangnya manis. Sirup cocopandan.,id,positive
+Nasi minyak palembang aromanya enak. Ayam goreng crispy.,id,positive
+Gulai cancang daging sapi empuk. Kuah kental.,id,positive
+Bakso rudal isinya melimpah. Kuah panas.,id,positive
+Sop konro makassar iganya empuk. Kuah hitam gurih.,id,positive
+Tahu gimbal semarang tahunya goreng enak. Bumbu kacang.,id,positive
+Nasi liwet solo lauk opor ayam. Sambal goreng ati.,id,positive
+Sekoteng jahe hangatnya mantap. Kacang hijau lembut.,id,positive
+Ayam woku belanga pedas basilnya wangi. Ayam juicy.,id,positive
+Sate matang aceh kuah kacangnya enak. Daging kambing empuk.,id,positive
+Mie celor palembang mienya kenyal. Kuah santan gurih.,id,positive
+Bebek sinjay madura bebeknya crispy. Sambal pencit pedas.,id,positive
+Roti gambang betawi rotinya empuk. Selai srikaya manis.,id,positive
+Nasi kucing angkringan lauk oseng tempe. Sate usus enak.,id,positive
+Kue rangi kelapa parutnya gurih. Gula merah cair.,id,positive
+"Makanan dingin, nasi basi. Pelayan sombong.",id,negative
+"Sate ayam gosong, bumbu asin. Tempat sempit.",id,negative
+Soto banjar kuahnya hambar. Daging alot.,id,negative
+"Gado-gado lontongnya keras, sayur layu. Bumbu encer.",id,negative
+Rendang telor dagingnya kering. Santan pecah.,id,negative
+"Bakmi jawa mie gosong, topping sedikit. Kuah oily.",id,negative
+Ikan pepes daun pisang robek. Ikan amis.,id,negative
+"Martabak keju tipis, keju pelit. Gak manis.",id,negative
+"Kopi latte foamnya hilang, susu basi. Cafe panas.",id,negative
+"Ayam kremes kremesnya lembek, ayam dingin.",id,negative
+Burger vegetarian patty kering. Saus biasa.,id,neutral
+Pizza margherita cheese okay. Crust standar.,id,neutral
+Sushi california roll fresh-ish. Soy sauce standard.,id,neutral
+"Steak ribeye juicy, tapi garam kurang. Sides oke.",id,neutral
+Taco beef filling lumayan. Tortilla lembut.,id,neutral
+Curry kambing spice sedang. Naan biasa.,id,neutral
+Seafood paella rice al dente. Seafood mixed.,id,neutral
+Pasta bolognese meat sauce okay. Parmesan sedikit.,id,neutral
+Pad thai chicken manis pedas balance. Biasa aja.,id,neutral
+"Kopi mocha chocolatey, whipped cream melimpah. Cafe nyaman.",id,neutral
+The ramen noodles were springy and the broth flavorful. Toppings fresh.,en,positive
+Burger joint with juicy patties and fresh buns. Cheese options great.,en,positive
+"Sushi hand rolls cone-shaped, fish quality high.",en,positive
+"Tacos carnitas slow-cooked, cilantro onion topping.",en,positive
+"Curry green Thai basil aromatic, coconut milk smooth.",en,positive
+Fish tacos with mango salsa. Refreshing and zesty.,en,positive
+"Vegan pho broth herbal, tofu firm.",en,positive
+"Dim sum pork buns fluffy, filling savory.",en,positive
+"Breakfast smoothie bowl fruits vibrant, granola crunchy.",en,positive
+Sorbet lemon tangy and refreshing. Palette cleanser.,en,positive
+"Tapas chorizo sauteed, potatoes garlic aioli.",en,positive
+"Korean kimchi fried rice spicy, egg on top.",en,positive
+Bagel with schmear and capers. Salmon smoked.,en,positive
+Lobster bisque with sherry. Croutons crunchy.,en,positive
+Crepe dessert with caramel and apples.,en,positive
+"Ramen vegetarian miso, mushrooms earthy.",en,positive
+"Baba ganoush smoky eggplant, pita warm.",en,positive
+Burrito breakfast with eggs and chorizo.,en,positive
+"Oxtail stew Jamaican thyme infused, dumplings soft.",en,positive
+Pancakes vegan banana walnut. Syrup agave.,en,positive
+"Dosa South Indian crispy, sambar spicy.",en,positive
+"Shrimp scampi garlic butter, pasta al dente.",en,positive
+"Waffles gluten-free, blueberries burst.",en,positive
+"Empanadas corn filled, aji sauce.",en,positive
+Fondue gruyere and emmental. Apples for dipping.,en,positive
+"Po'boy sandwich shrimp fried, remoulade sauce.",en,positive
+Rice paper rolls pork and shrimp. Hoisin dip.,en,positive
+"Falafel sandwich in pita, pickles tangy.",en,positive
+"Scallops seared, risotto creamy.",en,positive
+"Butter chicken creamy tomato, naan garlic.",en,positive
+"Ramen over salted, noodles clumpy. Broth oily.",en,negative
+"Burger undercooked, bun soggy. Fries limp.",en,negative
+"Sushi avocado roll mushy, wasabi fake.",en,negative
+"Tacos fish batter heavy, slaw wilted.",en,negative
+"Curry too spicy, no balance. Rice dry.",en,negative
+"Vegan burger patty crumbly, tasteless greens.",en,negative
+"Dim sum wrappers sticky, meat dry.",en,negative
+"Breakfast smoothie watery, fruits unripe.",en,negative
+"Sorbet icy, not smooth. Flavors off.",en,negative
+"Tapas cold plates, portions tiny. Wine sour.",en,negative
+"The ramen was decent, broth average. Standard.",en,neutral
+"Burger fine, cheese melted okay. Typical meal.",en,neutral
+"Sushi rolls tight, fish okay. Nothing special.",en,neutral
+Tacos meat seasoned mildly. Tortillas warm.,en,neutral
+"Curry flavor balanced, but not standout.",en,neutral
+"Vegan options available, taste neutral.",en,neutral
+"Dim sum steamed okay, dipping sauce standard.",en,neutral
+"Breakfast eggs cooked, toast buttered. Fine.",en,neutral
+"Sorbet refreshing-ish, portion small.",en,neutral
+"Tapas variety okay, atmosphere casual.",en,neutral
+Sate klathak yogya daging kambingnya empuk. Garam sederhana.,id,positive
+Nasi goreng seafood cumi udang fresh. Pedas mantap.,id,positive
+Soto medan kuah santannya gurih. Perkedel kentang enak.,id,positive
+Pempek keriting gorengnya renyah. Cuko hitam kental.,id,positive
+Rendang limpa daging limpa lembut. Bumbu rempah kuat.,id,positive
+Bakso solo urat besarnya kenyal. Kuah sapi asli.,id,positive
+Ikan kembung asam pedasnya segar. Tomat merah matang.,id,positive
+Martabak ovomaltine crunchy. Keju ovomaltine meleleh.,id,positive
+Kopi gayo aceh aromanya strong. Pahit legit.,id,positive
+Ayam betutu balinya pedas wangi. Daun singkong enak.,id,positive
+Nasi gudeg yogya gudegnya manis legit. Krecek pedas.,id,positive
+Lele cabe garam cabe rawitnya nendang. Lele crispy.,id,positive
+Bubur manado tinutungnya unik. Ikan asin gurih.,id,positive
+Sate padang lidah kuah gulainya kental. Lidah empuk.,id,positive
+Opor tahu telor santannya lembut. Bumbu kuning wangi.,id,positive
+Es kacang merah es serutnya halus. Kacang merah empuk.,id,positive
+Nasi rawon surabaya dagingnya empuk. Kluwek hitam gurih.,id,positive
+Gulai ikan patin tempoyak asamnya pas. Ikan segar.,id,positive
+Bakso beranak isinya bakso kecil enak. Kuah kaldu mantap.,id,positive
+Sop saudara sulawesi kuahnya bening. Paru goreng crispy.,id,positive
+Tahu lonthong malang tahunya lembut. Lonthong kenyal.,id,positive
+Nasi campur ayam bali sate lilitnya enak. Lawar segar.,id,positive
+Bajigur hangat jahe merica. Kacang tanah goreng.,id,positive
+Ayam iloni gorontalo santan kuningnya gurih. Ayam kampung.,id,positive
+Sate renggong kuda dagingnya empuk. Bumbu kecap pedas.,id,positive
+Mie koba bangka mienya al dente. Kuah ikan tenggiri.,id,positive
+Bebek songkem banyuwangi bebeknya steamed lembut. Sambal matah.,id,positive
+Roti buaya betawi rotinya empuk. Isi selai manis.,id,positive
+Nasi jinggo bali porsinya kecil tapi enak. Sate telor puyuh.,id,positive
+Kue pancong kelapa parutnya gurih. Gula pasir manis.,id,positive
+"Makanan terlalu manis, nasi lembek. Tempat pengap.",id,negative
+"Sate gosong luar dalam, daging alot. Bumbu encer.",id,negative
+Soto kuahnya terlalu asin. Sayur layu.,id,negative
+"Gado-gado kacangnya kasar, lontong basi. Mahal.",id,negative
+"Rendang bumbu kurang, daging keras. Santan encer.",id,negative
+"Bakmi topping amis, mie overboiled. Kuah dingin.",id,negative
+"Ikan goreng lembek, sambal kurang pedas. Kotor.",id,negative
+"Martabak manis doughy, topping sedikit. Gak crispy.",id,negative
+"Kopi terlalu pahit, susu kental berlebih. Cafe berdebu.",id,negative
+"Ayam geprek ayamnya oily, nasi dingin. Kecewa besar.",id,negative
+"Burger cheese lumayan, tapi patty kecil. Standar.",id,neutral
+Pizza veggie topping fresh-ish. Crust okay.,id,neutral
+Sushi salmon roll standard. Wasabi pas.,id,neutral
+Steak filet mignon cooked medium. Saus biasa.,id,neutral
+Taco veggie isi sayur lumayan. Shell crisp.,id,neutral
+Curry seafood mixed. Spice level medium.,id,neutral
+Seafood salad greens okay. Dressing light.,id,neutral
+Pasta pesto basil fresh. Pine nuts sedikit.,id,neutral
+Pad thai veggie noodles okay. Peanut crunchy.,id,neutral
+Kopi cappuccino foam tebal. Rasa balance.,id,neutral

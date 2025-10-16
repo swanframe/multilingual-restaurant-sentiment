@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual env
+.venv/
+
+# Data & outputs
+data/**/*.tmp
+outputs/
+logs/
+saved_models/
+
+# OS/files
+.DS_Store
+
+# Env
+.env

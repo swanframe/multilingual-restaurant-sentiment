@@ -1,0 +1,501 @@
+text,language,sentiment
+Absolutely loved the ambiance and food at this Italian restaurant! The pasta was cooked to perfection and the tiramisu was divine. Will definitely be coming back!,en,positive
+The sushi here is incredibly fresh! The chef's special roll was a work of art. The service was attentive but not intrusive. Highly recommend!,en,positive
+This Mexican restaurant has the best tacos I've ever had! The flavors are authentic and the portions are generous. The margaritas are top-notch too.,en,positive
+The steakhouse exceeded my expectations! The ribeye was cooked exactly as ordered - medium rare with a perfect char. The sides were delicious and the wine selection impressive.,en,positive
+What a hidden gem! This Thai restaurant has the most authentic flavors. The pad thai was perfectly balanced and the green curry had just the right amount of heat.,en,positive
+The brunch at this cafe is phenomenal! The eggs benedict was perfection and the coffee was rich and flavorful. The atmosphere is cozy and welcoming.,en,positive
+"This seafood restaurant is a must-visit! The lobster was fresh and succulent, and the clam chowder was rich and creamy. The ocean view adds to the dining experience.",en,positive
+"The pizza at this Italian place is authentic and delicious! The crust is thin and crispy, and the toppings are fresh. The tiramisu is a must-try dessert.",en,positive
+This Chinese restaurant offers the best dim sum in town! The har gow and siu mai were perfectly steamed and flavorful. The service was efficient and friendly.,en,positive
+"The vegan options at this restaurant are outstanding! The plant-based burger was juicy and flavorful, and the vegan cheesecake was surprisingly delicious.",en,positive
+The French bistro has the most authentic coq au vin I've had outside of France! The wine selection is impressive and the service is impeccable.,en,positive
+This Korean BBQ place is fantastic! The quality of the meat is excellent and the side dishes are delicious. The staff is helpful and the atmosphere is lively.,en,positive
+"The Indian restaurant has the most flavorful butter chicken! The naan bread is fresh and fluffy, and the biryani is aromatic and delicious.",en,positive
+"This gastropub has the best craft beer selection and the food is outstanding! The burger is juicy and flavorful, and the fries are crispy and golden.",en,positive
+"The ramen at this Japanese restaurant is incredible! The broth is rich and flavorful, the noodles are perfectly cooked, and the toppings are fresh.",en,positive
+This tapas bar is amazing! The variety of small plates allows you to try many different flavors. The patatas bravas and gambas al ajillo were outstanding.,en,positive
+The breakfast at this diner is classic American comfort food! The pancakes are fluffy and the bacon is crispy. The coffee is strong and the service is friendly.,en,positive
+This Greek restaurant has the most authentic flavors! The moussaka is delicious and the tzatziki is creamy and flavorful. The pita bread is fresh and warm.,en,positive
+"The Vietnamese pho at this restaurant is the best I've had! The broth is rich and aromatic, the noodles are perfectly cooked, and the herbs are fresh.",en,positive
+This farm-to-table restaurant offers the freshest ingredients! The seasonal menu is creative and the dishes are beautifully presented. The service is knowledgeable and attentive.,en,positive
+"The Mediterranean restaurant has the most delicious hummus and falafel! The grilled lamb is tender and flavorful, and the baklava is sweet and crispy.",en,positive
+This barbecue joint serves the best ribs in town! The meat is fall-off-the-bone tender and the sauce is tangy and sweet. The sides are classic and delicious.,en,positive
+The afternoon tea at this British-style cafe is delightful! The scones are fresh and the clotted cream is rich. The tea selection is extensive and the atmosphere is elegant.,en,positive
+This pizzeria makes the most authentic Neapolitan pizza! The crust is perfectly charred and the toppings are high-quality. The tiramisu is a must-try.,en,positive
+"The Ethiopian restaurant offers a unique dining experience! The injera is sour and spongy, and the various stews are flavorful and aromatic. The coffee ceremony is a nice touch.",en,positive
+"This Caribbean restaurant has the most flavorful jerk chicken! The rice and peas are perfectly cooked, and the plantains are sweet and caramelized.",en,positive
+The sushi at this Japanese restaurant is fresh and beautifully presented! The chef's omakase was a delightful journey of flavors and textures.,en,positive
+This comfort food restaurant serves the best mac and cheese! It's creamy and cheesy with a crispy topping. The fried chicken is juicy and flavorful.,en,positive
+"The dim sum at this Chinese restaurant is authentic and delicious! The shrimp dumplings are plump and juicy, and the pork buns are fluffy and flavorful.",en,positive
+"This Middle Eastern restaurant has the most delicious shawarma! The meat is tender and flavorful, and the garlic sauce is creamy and aromatic.",en,positive
+The service was incredibly slow and the food was cold when it finally arrived. The pasta was overcooked and the sauce was bland. Very disappointing experience.,en,negative
+This Mexican restaurant was a letdown! The tacos were dry and lacked flavor. The salsa was watery and the margarita was too sweet. Won't be coming back.,en,negative
+"The steak was overcooked despite ordering medium rare. The sides were bland and the service was inattentive. For the price, I expected much better.",en,negative
+The sushi here was not fresh at all! The fish had a strange smell and the rice was mushy. The service was also slow and the restaurant was not clean.,en,negative
+This Thai restaurant was disappointing! The pad thai was too sweet and the green curry was watery. The service was slow and the restaurant was too noisy.,en,negative
+"The burger was dry and overcooked, and the fries were soggy. The service was slow and the restaurant was dirty. Definitely not worth the price.",en,negative
+The Indian food here was bland and lacked authenticity! The butter chicken was too sweet and the naan was burnt. The service was also slow and inattentive.,en,negative
+This Chinese restaurant was a disappointment! The dim sum was dry and the dumplings were falling apart. The service was slow and the restaurant was crowded and noisy.,en,negative
+The seafood was not fresh and the dishes were overpriced. The lobster was tough and the clam chowder was watery. The service was also slow and inattentive.,en,negative
+The pizza at this Italian place was a letdown! The crust was burnt and the toppings were sparse. The service was slow and the restaurant was too noisy.,en,negative
+The restaurant has a nice ambiance and the service was decent. The food was okay but nothing special. The prices were reasonable for the portion sizes.,en,neutral
+This Japanese restaurant offers a variety of sushi rolls and other dishes. The food was decent but not outstanding. The service was efficient but not particularly friendly.,en,neutral
+The Italian restaurant has a nice atmosphere and the service was good. The pasta was cooked well but the sauce could have been more flavorful. The prices were reasonable.,en,neutral
+This Mexican restaurant offers a variety of dishes. The tacos were decent but not authentic. The service was friendly but a bit slow. The prices were reasonable.,en,neutral
+The steakhouse has a nice ambiance and the service was attentive. The steak was cooked as ordered but lacked flavor. The sides were decent but not memorable.,en,neutral
+This Thai restaurant offers a variety of dishes. The pad thai was decent but a bit too sweet. The service was friendly but a bit slow. The prices were reasonable.,en,neutral
+The cafe has a cozy atmosphere and the service was friendly. The coffee was good but the food was just okay. The prices were a bit high for the quality.,en,neutral
+This Chinese restaurant offers a variety of dishes. The dim sum was decent but not outstanding. The service was efficient but not particularly friendly.,en,neutral
+The seafood restaurant has a nice view and the service was decent. The seafood was fresh but the preparation was simple. The prices were a bit high for the quality.,en,neutral
+This French bistro has a nice atmosphere and the service was good. The coq au vin was decent but not authentic. The prices were reasonable for the portion sizes.,en,neutral
+Sate di warung ini paling enak yang pernah saya coba! Dagingnya empuk dan bumbu kacangnya gurih. Nasi kuningnya juga harum dan lezat. Pasti akan kembali lagi!,id,positive
+Rendang di rumah makan Padang ini autentik dan enak sekali! Dagingnya empuk dan bumbunya meresap sempurna. Sambal ijo-nya pedas segar. Pelayanannya ramah dan cepat.,id,positive
+"Bakso di tempat ini juara! Kuahnya gurih dan baksonya kenyal-kenyal empuk. Ditambah mie dan sayuran segar, sempurna! Harganya juga terjangkau.",id,positive
+Gado-gado di restoran ini paling enak! Sayurannya segar dan bumbu kacangnya kental dan gurih. Kerupuknya renyah. Porsinya besar dan harganya reasonable.,id,positive
+"Nasi goreng di warung ini enak sekali! Bumbunya meresap dan ada isian ayam dan udang yang banyak. Ditambah telur mata sapi dan kerupuk, nikmat! Pelayanannya cepat.",id,positive
+"Soto Ayam di rumah makan ini gurih dan aromatik! Kuahnya bening namun kaya rasa. Daging ayamnya empuk dan suwiran banyak. Ditambah telur rebus dan kerupuk, sempurna!",id,positive
+Mie Ayam di tempat ini enak sekali! Mie-nya kenyal dan daging ayamnya banyak dan bumbunya gurih. Kuah kaldu-nya juga segar. Harganya terjangkau.,id,positive
+Ayam Bakar di rumah makan ini empuk dan bumbunya meresap sempurna! Sambalnya pedas segar dan lalapannya segar. Nasi hangatnya pulen. Pelayanannya ramah.,id,positive
+"Pecel Lele di warung ini enak sekali! Lele-nya garing dan empuk, sambalnya pedas segar, dan lalapannya lengkap. Nasi hangatnya pulen. Harganya murah!",id,positive
+"Nasi Uduk di warung ini paling enak! Nasi-nya gurih dan aromatik. Lauknya lengkap dari ayam goreng, tempe, tahu, hingga telur. Sambal terasinya mantap!",id,positive
+"Soto Madura di rumah makan ini autentik! Kuahnya gurih dengan sedikit santan. Daging sapi-nya empuk dan jeroannya juga bersih. Ditambah kerupuk dan sambal, nikmat!",id,positive
+"Gudeg di restoran ini enak sekali! Gudegnya manis namun tidak berlebihan, daging sapi-nya empuk, dan telurnya meresap bumbu. Kreceknya gurih. Pelayanannya ramah.",id,positive
+"Mie Goreng di warung ini enak sekali! Mie-nya tidak lembek dan bumbunya merata. Isian sayuran dan dagingnya banyak. Ditambah acar dan kerupuk, sempurna!",id,positive
+"Rawon di rumah makan ini gurih dan aromatik! Daging sapi-nya empuk dan kuahnya kental dengan kluwek yang khas. Ditambah tauge pendek dan kerupuk, nikmat!",id,positive
+Cap Cay di restoran Chinese ini enak sekali! Sayurannya segar dan masih renyah. Bumbunya merata dan tidak terlalu berminyak. Porsinya besar dan harganya reasonable.,id,positive
+Ikan Bakar di rumah makan ini segar dan enak! Ikannya masih segar dan bumbu bakarnya meresap sempurna. Sambalnya pedas segar dan lalapannya lengkap.,id,positive
+"Nasi Campur di warung Bali ini autentik! Nasi-nya pulen dengan berbagai lauk seperti ayam suwir, sate lilit, dan lawar. Sambal matahnya pedas segar. Pelayanannya ramah.",id,positive
+"Bubur Ayam di warung ini enak sekali! Buburnya lembut dan kental, daging ayamnya banyak dan bumbunya gurih. Ditambah kerupuk, cakwe, dan seledri, sempurna!",id,positive
+"Nasi Liwet di rumah makan ini gurih dan aromatik! Nasi-nya dimasak dengan santan dan rempah. Lauknya lengkap dari ayam goreng, ikan asin, hingga sayur labu. Sambalnya mantap!",id,positive
+Sate Padang di warung ini enak sekali! Dagingnya empuk dan bumbu kuningnya kental dan gurih. Ketupatnya juga pas. Sambalnya pedas segar. Harganya terjangkau.,id,positive
+"Pempek di restoran Palembang ini autentik! Pempek lenjer dan kapal selamnya enak, cuko-nya manis pedas gurih. Ditambah mie dan timun, sempurna! Pelayanannya ramah.",id,positive
+"Sop Buntut di rumah makan ini gurih dan aromatik! Buntutnya empuk dan banyak dagingnya. Kuahnya kaya rasa dengan rempah. Ditambah kentang dan wortel, nikmat!",id,positive
+"Nasi Kuning di warung ini enak sekali! Nasi-nya gurih dan aromatik dengan kunyit. Lauknya lengkap dari ayam goreng, telur, hingga ikan teri. Sambal goreng atinya mantap!",id,positive
+"Mie Aceh di rumah makan ini pedas dan gurih! Mie-nya tebal dan bumbunya kaya rempah. Isian daging dan udangnya banyak. Ditambah acar dan kerupuk, sempurna!",id,positive
+"Es Cendol di warung ini paling enak! Cendolnya kenyal, santannya kental dan gurih, dan gula merahnya manis alami. Ditambah es batu, segar! Harganya murah!",id,positive
+"Soto Banjar di rumah makan ini gurih dan aromatik! Kuahnya bening namun kaya rasa dengan kayu manis. Daging ayamnya empuk dan suwiran banyak. Ditambah telur rebus dan perkedel, nikmat!",id,positive
+"Nasi Goreng Spesial di restoran ini enak sekali! Bumbunya meresap dan ada isian seafood yang banyak. Ditambah telur mata sapi dan kerupuk, nikmat! Pelayanannya ramah.",id,positive
+"Ayam Penyet di warung ini enak sekali! Ayamnya garing dan empuk, sambalnya pedas segar, dan lalapannya lengkap. Tempe dan tahu penyetnya juga enak. Nasi hangatnya pulen.",id,positive
+"Bakso Malang di warung ini enak sekali! Baksonya kenyal-kenyal empuk dengan berbagai ukuran. Kuahnya gurih dan ada tahu, mie, dan siomay. Ditambah sambal dan kecap, sempurna!",id,positive
+"Lontong Sayur di warung ini enak sekali! Lontongnya empuk, sayur labu siamnya gurih, dan telur rebusnya meresap bumbu. Ditambah kerupuk dan bawang goreng, nikmat! Harganya murah!",id,positive
+Sate di warung ini keras dan bumbu kacangnya hambar. Porsinya kecil dan harganya mahal. Pelayanannya juga lambat. Sangat mengecewakan!,id,negative
+Rendang di rumah makan Padang ini alot dan bumbunya tidak meresap. Dagingnya banyak lemak dan tulang. Harganya mahal untuk kualitas seperti ini.,id,negative
+Bakso di tempat ini hambar dan baksonya keras. Kuahnya tidak gurih dan terasa seperti air biasa. Porsinya kecil dan harganya mahal. Tidak akan kembali lagi!,id,negative
+Gado-gado di restoran ini tidak enak! Sayurannya layu dan bumbu kacangnya encer. Kerupuknya lembek. Porsinya kecil dan harganya mahal. Sangat mengecewakan!,id,negative
+Nasi goreng di warung ini hambar dan bumbunya tidak merata. Isian ayam dan udangnya sedikit. Pelayanannya lambat dan restorannya kotor. Tidak akan kembali lagi!,id,negative
+Soto Ayam di rumah makan ini tidak gurih dan aromanya kurang sedap. Daging ayamnya sedikit dan alot. Kuahnya berminyak. Pelayanannya tidak ramah.,id,negative
+Mie Ayam di tempat ini tidak enak! Mie-nya lembek dan daging ayamnya sedikit. Kuah kaldu-nya hambar. Porsinya kecil dan harganya mahal. Sangat mengecewakan!,id,negative
+Ayam Bakar di rumah makan ini gosong dan bumbunya tidak meresap. Dagingnya kering dan alot. Sambalnya tidak pedas dan lalapannya tidak segar. Pelayanannya lambat.,id,negative
+Pecel Lele di warung ini tidak enak! Lele-nya tidak garing dan dagingnya alot. Sambalnya tidak pedas dan lalapannya layu. Nasi hangatnya keras. Harganya mahal!,id,negative
+Nasi Uduk di warung ini tidak gurih dan aromanya kurang sedap. Lauknya sedikit dan tidak enak. Sambal terasinya tidak pedas. Pelayanannya tidak ramah dan tempatnya kotor.,id,negative
+Sate di warung ini cukup enak. Dagingnya empuk tapi bumbu kacangnya kurang gurih. Porsinya standar dan harganya reasonable. Pelayanannya biasa saja.,id,neutral
+Rendang di rumah makan Padang ini cukup enak. Dagingnya empuk tapi bumbunya kurang meresap. Harganya agak mahal untuk porsi yang diberikan. Pelayanannya cukup ramah.,id,neutral
+Bakso di tempat ini biasa saja. Kuahnya cukup gurih tapi baksonya kurang kenyal. Porsinya standar dan harganya reasonable. Pelayanannya cepat.,id,neutral
+Gado-gado di restoran ini cukup enak. Sayurannya segar tapi bumbu kacangnya kurang kental. Kerupuknya renyah. Porsinya standar dan harganya agak mahal.,id,neutral
+Nasi goreng di warung ini biasa saja. Bumbunya cukup enak tapi isian ayam dan udangnya sedikit. Pelayanannya cukup cepat dan harganya reasonable.,id,neutral
+Soto Ayam di rumah makan ini cukup gurih. Daging ayamnya empuk tapi suwirannya sedikit. Kuahnya bening namun kurang aromatik. Pelayanannya ramah.,id,neutral
+Mie Ayam di tempat ini biasa saja. Mie-nya kenyal tapi daging ayamnya kurang bumbu. Kuah kaldu-nya cukup segar. Porsinya standar dan harganya reasonable.,id,neutral
+Ayam Bakar di rumah makan ini cukup enak. Dagingnya empuk tapi bumbunya kurang meresap. Sambalnya cukup pedas dan lalapannya segar. Pelayanannya ramah.,id,neutral
+"Pecel Lele di warung ini biasa saja. Lele-nya cukup garing dan empuk, sambalnya cukup pedas, tapi lalapannya kurang lengkap. Nasi hangatnya pulen. Harganya reasonable.",id,neutral
+Nasi Uduk di warung ini cukup enak. Nasi-nya gurih tapi aromanya kurang sedap. Lauknya cukup lengkap tapi sambal terasinya kurang pedas. Pelayanannya ramah.,id,neutral
+"This place is a solid choice for a casual weeknight dinner. The menu has a good variety, and the food is consistently good. I had the salmon which was cooked perfectly. Service is friendly and efficient.",en,positive
+"I'm obsessed with their ramen! The tonkotsu broth is so rich and flavorful, you can tell it's been simmering for hours. The chashu pork melts in your mouth. Always a satisfying meal.",en,positive
+"Finally found a great pizza place in the neighborhood! The crust is perfectly crispy on the bottom and fluffy on the inside. We got the prosciutto and arugula pizza, and it was a perfect balance of flavors.",en,positive
+"The best Indian takeaway I've had! The butter chicken is creamy and flavorful without being too heavy, and the naan is always soft and warm. Portions are generous too. Highly recommend!",en,positive
+"A fantastic find! This little French patisserie has the most authentic croissants I've had outside of Paris. Flaky, buttery, and absolutely delicious. Their coffee is pretty good too.",en,positive
+"We came here for brunch and it was amazing. The avocado toast was simple but so fresh and tasty, and the smoothies were vibrant and full of flavor. The atmosphere is bright and airy, perfect for a lazy Sunday.",en,positive
+"This gastropub never disappoints. The beer selection is top-notch, and the food is a step above your typical pub grub. The steak and ale pie is a must-try. Hearty, flavorful, and comforting.",en,positive
+"An authentic taste of Mexico! The tacos al pastor are incredible, with juicy marinated pork and fresh pineapple. The horchata is also a must-try to cool down the spice. A vibrant and lively atmosphere.",en,positive
+"The food here is so fresh and healthy! I love their grain bowls, you can customize them with so many different options. The lemon herb dressing is to die for. Great service and a bright, clean space.",en,positive
+"A wonderful fine dining experience. Every dish was a work of art, both in presentation and taste. The tasting menu was a journey of unique and complementary flavors. Impeccable service from start to finish.",en,positive
+"This place has the best burgers in town, hands down. The patties are juicy and flavorful, and the brioche buns are perfect. They have great craft beers on tap too. A bit loud, but it's part of the charm.",en,positive
+"I love the cozy, intimate atmosphere of this Italian trattoria. It feels like you're dining in someone's home. The lasagna was homemade and absolutely delicious, just like nonna used to make.",en,positive
+"The seafood paella was fantastic! It was a massive portion, packed with fresh mussels, clams, prawns, and squid. The rice was perfectly cooked and infused with saffron. Great for sharing.",en,positive
+"A hidden gem! This Korean restaurant serves the most authentic and delicious bibimbap. The vegetables are fresh, the beef is tender, and the gochujang sauce has the perfect amount of kick.",en,positive
+The vegan options here are creative and delicious! I had the mushroom 'steak' and it was surprisingly savory and satisfying. It's great to see a restaurant putting so much thought into its plant-based menu.,en,positive
+"This is my go-to spot for a quick and tasty lunch. The banh mi sandwiches are amazing, with crispy baguettes and flavorful fillings. The price is also very reasonable. Highly recommend the grilled pork one.",en,positive
+"The dim sum here is outstanding! Everything we ordered was fresh and delicious, from the har gow to the char siu bao. The carts come around frequently, so you never have to wait long. A bustling and authentic experience.",en,positive
+"A great spot for a date night. The lighting is dim and romantic, and the food is exquisite. We shared the mezze platter to start, and everything was so flavorful. The lamb main course was cooked to perfection.",en,positive
+"The best fried chicken I've ever had! The crust is perfectly seasoned and crispy, and the meat inside is so juicy and tender. The sides, like the mac and cheese and collard greens, are also incredible.",en,positive
+"I'm not a big coffee drinker, but I love coming here for their tea selection and cozy atmosphere. It's the perfect place to curl up with a book. Their pastries are also delicious, especially the scones with clotted cream.",en,positive
+The food here is consistently good. I've tried several things on the menu and have never been disappointed. The service is always friendly and the prices are fair. A reliable choice.,en,positive
+"This place has a great vibe and even better food. The fish tacos were fresh and zesty, and the sweet potato fries were perfectly crispy. They have a nice outdoor patio which is great on a sunny day.",en,positive
+The spicy tuna roll here is the best I've ever had. So fresh and flavorful. They also have a great selection of sake. The chefs are very skilled and it's fun to watch them work.,en,positive
+"A solid choice for a group dinner. The menu has something for everyone. The pizzas are great, the pastas are hearty, and the salads are fresh. The service is efficient even when they're busy.",en,positive
+"I love the build-your-own concept here. You get to choose your base, protein, and all the toppings. It's a healthy and customizable meal. The ingredients are always fresh and the staff is helpful.",en,positive
+"The shepherd's pie was a letdown. The meat filling was bland and the mashed potato topping was dry and lacked flavor. It came with a tiny side of overcooked vegetables. For the price, I expected much more.",en,negative
+This was a terrible experience from start to finish. We were seated at a wobbly table right next to the kitchen. Our server was rude and inattentive. The food was cold when it arrived and tasted like it came from a freezer bag.,en,negative
+"I really wanted to like this place, but the food was just not good. The pho broth was watery and lacked any depth of flavor. The meat was tough and the noodles were clumped together. Very disappointing.",en,negative
+Overpriced and underwhelming. The portions are tiny for what you pay. I ordered the scallops and got three small scallops on a large plate with a smear of sauce. It was gone in two bites. Left feeling hungry and ripped off.,en,negative
+"The 'crispy' duck was anything but. It was soggy and fatty, and the skin was chewy. The sauce it came with was cloyingly sweet. The rest of the dishes we ordered were equally mediocre. Will not be returning.",en,negative
+"This place used to be good, but it's really gone downhill. The quality of the ingredients has dropped, and the prices have gone up. My burger was dry and overcooked. Sad to see what it's become.",en,negative
+"Waited over an hour for our food on a weeknight. When we asked the server, she was very dismissive and said they were busy. The restaurant wasn't even full. The food was mediocre when it finally came. Not worth the wait.",en,negative
+"The pasta was swimming in a greasy, tasteless sauce. It was inedible. My friend's pizza had a burnt crust and sparse toppings. We complained to the manager, but they didn't seem to care. Avoid this place.",en,negative
+"The hygiene standards here are questionable. The table was sticky, and I saw a cockroach scurry across the floor. It completely ruined my appetite. We paid for our drinks and left immediately.",en,negative
+"The 'gourmet' hot dog was a joke. It was a sad, skinny hot dog in a stale bun with some limp onions and a squirt of ketchup. It cost $15. I could have made a better one at home for a fraction of the price.",en,negative
+"The food is okay, but nothing to write home about. It's a bit overpriced for what it is. The service is usually pretty slow, even when it's not busy. It's a convenient location, so I end up here sometimes, but I'm never excited about it.",en,neutral
+"A very average dining experience. The menu is pretty standard, and the food is prepared competently but without any flair. It's fine if you're looking for something predictable, but don't expect to be wowed.",en,neutral
+"The restaurant has a nice decor and a pleasant atmosphere. The food was decent, but not memorable. I had the chicken parmesan, which was a bit dry. The service was friendly but a bit inattentive. It was an okay experience overall.",en,neutral
+"This place is fine for a quick lunch. The food is ready quickly and it's relatively cheap. However, the quality is what you'd expect for the price. It's not particularly flavorful or healthy, but it fills a gap.",en,neutral
+"The sushi was okay. It wasn't bad, but it wasn't great either. The fish seemed fresh enough, but the rice was a bit mushy. The rolls were also loosely rolled and fell apart easily. Probably wouldn't come back.",en,neutral
+"We came here for a celebratory dinner and it was just... fine. The food was good, but not spectacular. The service was efficient but not warm. For the price, I was expecting a more memorable experience.",en,neutral
+The pizza is decent. The crust is thin and the toppings are fresh. But there's nothing particularly special about it that would make me choose it over other pizza places in the area. It's just another pizza joint.,en,neutral
+"The tacos were a bit bland for my liking. They needed more seasoning and more sauce. The sides were also pretty standard. The restaurant itself is clean and the service is friendly, but the food just didn't impress me.",en,neutral
+"This is a standard chain restaurant. You know exactly what you're going to get. The food is consistent, the service is usually hit or miss. It's a safe bet if you have picky eaters in your group, but don't expect any culinary adventures.",en,neutral
+"The curry I ordered was mild and a bit watery. It lacked the depth of flavor I was hoping for. The naan bread was good, though. The service was prompt and the restaurant was clean. An okay meal, but I wouldn't rush back.",en,neutral
+"The coffee is good and strong, but the pastries are always a bit dry. The atmosphere is nice for working or studying, with plenty of outlets and free Wi-Fi. It can get a bit crowded and noisy in the afternoons, though.",en,neutral
+"The restaurant is located in a beautiful spot with a nice view. The food, however, is just average. It seems like they're relying more on the location than on the quality of the food. It's overpriced for what you get.",en,neutral
+"I had the fish and chips. The fish was okay, but the batter was a bit soggy. The fries were standard frozen fries. It was a filling meal, but not a particularly good one. The service was friendly enough.",en,neutral
+"The salad I ordered was fresh, but the dressing was very bland. It was basically just lettuce and a few vegetables with a bit of oil and vinegar. For the price, I expected a more interesting and flavorful salad.",en,neutral
+"The brunch menu is limited and the food is just okay. The eggs benedict was decent, but the hollandaise sauce was a bit too tart. The coffee is good, though. It's a popular spot, so be prepared to wait for a table.",en,neutral
+"Sop Kaki Kambing di sini mantap! Dagingnya empuk banget, tidak bau prengus. Kuahnya kaya rempah dan gurih. Ditambah emping dan sambal, nikmatnya kebangetan! Porsi pas untuk kenyang.",id,positive
+"Nasi Timbel di rumah makan Sunda ini autentik! Nasi hangatnya pulen dibungkus daun pisang. Lauknya komplit, ayam gorengnya gurih, ikan masnya asin segar, tempe tahu gorengnya renyah. Sambal dadaknya pedas nampol!",id,positive
+"Kerak Telor dari abang-abang di kaki lima ini enak sekali! Gurih, garing, dan aromanya wangi karena kelapa sangrai dan ebi. Porsinya pas buat cemilan sore-sore. Legenda betul ini makanan!",id,positive
+"Mie Kocok Bandung di sini juara! Kuah kaldu sapinya bening dan gurih, ada kikil dan baso yang kenyal. Ditambah mie, sawi, dan daun bawang, plus perasan jeruk nipis. Segar dan nikmat!",id,positive
+"Nasi Rawon di rumah makan ini enak banget! Kuahnya hitam pekat dari kluwek, rasanya gurih dan manis pas. Daging sapinya empuk banget. Ditambah tauge pendek, kerupuk, dan sambal. Uenak pol!",id,positive
+Sate Maranggi di sini recommended! Daging sapinya empuk dan bumbu bacemnya meresap sempurna. Disajikan dengan bumbu kecap yang manis gurih dan potongan lontong. Nikmat dimakan pas hujan-hujan.,id,positive
+"Es Doger di warung ini paling top! Isinya lengkap, ada kelapa muda, pacar cina, tape, ketan hitam, dan es krim. Santan dan gula merah cairnya manis pas, tidak terlalu manis. Segar banget!",id,positive
+"Pempek Kapal Selam di restoran Palembang ini besar dan enak. Cukonya kental, manis, pedas, dan asam, pas banget. Ditambah mie dan timun segar. Porsinya besar, bikin kenyang.",id,positive
+"Ayam Taliwang di rumah makan ini pedasnya nampol! Ayamnya bakar sampai kering, bumbu plecingnya bikin keringet. Sambal terasinya juga pedas mantap. Ditambah sayur plecing kangkung dan beberuk terong. Mantap!",id,positive
+"Nasi Liwet Solo di sini enak sekali! Nasinya gurih dengan suwiran ayam, telur pindang, dan areh (santan kental). Dimakan pakai daun pisang. Rasanya otentik banget!",id,positive
+"Gado-gado di warung ini beda, bumbu kacangnya pakai kacang tanah sangrai, jadi wangi dan gurih. Sayurannya juga segar-segar. Ditambah kerupuk warna-warni dan telur rebus. Recommended!",id,positive
+"Bubur Manado di restoran ini paling enak! Isinya berbagai sayuran dan ikan, rasanya gurih dan pedas. Ditambah perasan jeruk nipis dan sambal roa. Nagih banget!",id,positive
+"Mie Aceh di sini pedasnya mantul! Mie-nya tebal, bumbunya kaya rempah. Isian daging sapi, udang, dan cumi banyak. Ditambah acar bawang dan emping. Bikin makan jadi lahap.",id,positive
+"Soto Banjar di sini gurih dan wangi! Kuahnya bening ada aroma kayu manisnya. Isian daging ayam, suun, telur rebus, dan perkedel. Ditambah sambal dan air jeruk nipis. Pas buat sarapan.",id,positive
+"Es Teler di warung ini paling segar! Isinya lengkap, alpukat, nangka, kelapa muda, semuanya segar. Susu dan gula merahnya pas, tidak eneg. Es batunya banyak, dinginnya nampol!",id,positive
+"Ikan Bakar Cianjur di sini mantap! Ikannya segar, bisa pilih gurame atau nila. Bumbu kecapnya manis gurih, sambal terasinya pedas. Lalapannya lengkap dan segar. Nasi hangatnya pulen.",id,positive
+"Nasi Uduk di warung ini legendaris. Nasinya gurih banget, lauknya macem-macem, dari ayam goreng, tempe orek, bihun goreng, sampai telur dadar. Sambal kacangnya juga enak. Porsi besar, harga terjangkau.",id,positive
+"Bakso Urat di sini enak, baksonya kenyal dan ada uratnya yang gurih. Kuahnya juga gurih dan beraroma. Ditambah mie, sawi, dan sambal. Pas buat makan malem-malem.",id,positive
+"Ayam Geprek di sini level pedasnya beneran pedas! Ayamnya garing, dibalur sambal bawang yang uenak. Ditambah tempe, tahu, dan lalapan. Nasi hangatnya pulen. Buat yang suka pedas, wajib coba!",id,positive
+"Soto Lamongan di sini kuahnya kuning dan gurih. Daging ayamnya suwir-suwir, ada satenya juga. Ditambah kubis, tomat, tauge, dan kerupuk udang. Sambalnya juga pedas segar. Enak!",id,positive
+"Ketoprak di warung ini enak dan murah! Lontongnya empuk, tahu dan tempenya gorengan, sayurannya tauge dan bihun. Bumbu kacangnya kental dan gurih. Ditambah kerupuk dan bawang goreng. Kenyang!",id,positive
+"Nasi Padang di rumah makan ini rendangnya juara! Dagingnya empuk banget, bumbunya meresap. Sayur daun singkongnya juga gurih. Sambal ijo-nya pedas segar. Makan pakai tangan lebih nikmat!",id,positive
+"Bubur Ayam di abang gerobak ini favorit saya. Buburnya lembut, pilihan toppingnya banyak, ada ayam suwir, cakwe, kacang, dan kerupuk. Kecap asinnya juga enak. Murah meriah dan mengenyangkan.",id,positive
+"Mie Tek-Tek di warung ini enak. Mie-nya digoreng kering, bumbunya merata. Isian sayuran, telur, dan daging ayamnya cukup banyak. Ditambah acar dan kerupuk. Pas buat makan malam.",id,positive
+"Gudeg Jogja di sini manisnya pas, tidak enek. Gudegnya empuk, daging sapinya juga empuk, telurnya bumbunya meresap. Kreceknya gurih dan renyah. Ditambah sambal dan ayam kampung goreng. Mantap!",id,positive
+"Es Campur di warung ini legendaris. Isinya banyak banget, ada alpukat, kelapa muda, pacar cina, tape, nanas, dan masih banyak lagi. Kuah santan dan susunya manis pas. Segar!",id,positive
+Sate Kambing di sini empuk dan tidak bau prengus. Bumbu kecapnya manis gurih dengan potongan bawang merah dan cabai. Disajikan dengan lontong dan acar. Nikmat!,id,positive
+"Nasi Goreng Kambing di restoran ini enak sekali! Nasi-nya wangi aromatik, daging kambingnya empuk dan tidak bau prengus. Ditambah acar dan kerupuk. Porsinya besar. Recommended!",id,positive
+"Lontong Cap Go Meh di sini enak dan porsinya besar. Ada lontong, opor ayam, sayur labu siam, telur pindang, dan sambal goreng ati. Bumbunya meresap semua. Nagih!",id,positive
+"Siomay di abang kaki lima ini enak. Ikan kaninya terasa banget, tidak banyak tepung. Bumbu kacangnya kental dan gurih. Ditambah kubis rebus, telur rebus, dan kentang. Murah meriah!",id,positive
+Sate Padang di sini kecil-kecil dan dagingnya banyak lemak. Bumbunya kurang gurih dan terlalu encer. Harganya juga lumayan mahal untuk porsi segitu. Cukup mengecewakan.,id,negative
+"Nasi Uduk di warung ini tidak seenak yang dibilang orang. Nasi-nya kurang gurih, lauknya biasa aja. Pelayanannya lama dan kurang ramah. Tempatnya juga kurang bersih. Tidak akan balik lagi.",id,negative
+"Ayam Bakar di rumah makan ini gosong dan kering. Bumbunya tidak meresap, rasanya hambar. Sambalnya juga tidak pedas. Harganya mahal untuk kualitas makanan seperti ini. Nyesel.",id,negative
+"Mie Ayam di tempat ini tidak enak. Mie-nya lembek, daging ayamnya sedikit dan bumbunya kurang. Kuah kaldu-nya tawar. Porsinya kecil dan harganya mahal. Sangat tidak recommended.",id,negative
+Gado-gado di warung ini sayurannya sudah layu dan tidak segar. Bumbu kacangnya encer dan hambar. Kerupuknya lembek. Pelayanannya cuek banget. Menyesal makan di sini.,id,negative
+"Bakso di sini baksonya alot dan rasanya aneh. Kuahnya juga tidak gurih, terasa seperti air. Isian mie dan sayurnya juga sedikit. Harganya tidak sebanding dengan rasanya.",id,negative
+"Nasi Goreng di warung ini bumbunya tidak merata, ada yang hambar ada yang asin. Isian ayam dan udangnya cuma sedikit sekali. Pelayanannya sangat lama padahal warungnya sepi.",id,negative
+Soto Ayam di rumah makan ini kuahnya berminyak dan kurang gurih. Daging ayamnya alot dan sedikit. Harganya mahal untuk porsi yang kecil. Pelayanannya juga kurang perhatian.,id,negative
+Rendang di rumah makan Padang ini alot dan bumbunya tidak meresap sempurna. Dagingnya banyak lemak dan tulang. Harganya sangat mahal. Tidak sesuai ekspektasi.,id,negative
+"Pecel Lele di warung ini lelenya tidak garing, kulitnya alot. Dagingnya juga hambar. Sambalnya tidak pedas dan lalapannya layu. Nasi-nya juga keras. Sangat mengecewakan.",id,negative
+"Sate di warung ini cukup enak, dagingnya empuk. Tapi bumbu kacangnya kurang gurih, terlalu manis. Porsinya standar, harganya cukup terjangkau. Pelayanannya biasa saja, tidak ramah tidak juga cuek.",id,neutral
+"Nasi Goreng di warung ini rasanya biasa saja, tidak ada yang spesial. Bumbunya cukup enak tapi kurang mantap. Porsinya sedang, harganya lumayan. Cocok buat yang lagi buru-buru cari makan.",id,neutral
+"Ayam Penyet di sini lumayan enak. Ayamnya garing dan empuk, sambalnya cukup pedas. Tapi lalapannya kurang lengkap, cuma ada timun dan kemangi. Harganya agak mahal untuk ukuran warung.",id,neutral
+Mie Ayam di tempat ini biasa aja. Mie-nya kenyal tapi daging ayamnya kurang bumbu. Kuah kaldu-nya cukup gurih. Porsinya standar dan harganya reasonable. Pelayanannya cepat.,id,neutral
+Soto Ayam di rumah makan ini cukup gurih. Daging ayamnya empuk tapi suwirannya sedikit. Kuahnya bening tapi kurang aromatik. Pelayanannya ramah dan cepat. Harganya standar.,id,neutral
+"Rendang di rumah makan Padang ini cukup enak, dagingnya empuk. Tapi bumbunya kurang meresap dibanding tempat lain. Harganya agak mahal untuk porsi yang diberikan. Pelayanannya cukup ramah.",id,neutral
+Bakso di tempat ini biasa saja. Kuahnya cukup gurih tapi baksonya kurang kenyal. Porsinya standar dan harganya reasonable. Tempatnya sederhana tapi bersih. Pelayanannya cepat.,id,neutral
+Gado-gado di restoran ini cukup enak. Sayurannya segar tapi bumbu kacangnya kurang kental. Kerupuknya renyah. Porsinya standar dan harganya agak mahal. Pelayanannya ramah.,id,neutral
+Nasi Uduk di warung ini cukup enak. Nasi-nya gurih tapi aromanya kurang kuat. Lauknya cukup lengkap tapi sambal terasinya kurang pedas. Pelayanannya ramah dan harganya terjangkau.,id,neutral
+"Pecel Lele di warung ini biasa aja. Lele-nya cukup garing dan empuk, sambalnya cukup pedas, tapi lalapannya kurang segar. Nasi hangatnya pulen. Harganya reasonable. Pelayanannya cepat.",id,neutral
+"The ceviche here is a revelation! So fresh, zesty, and perfectly balanced with a hint of spice. The lomo saltado was also incredible, tender beef stir-fried with savory sauces. A fantastic taste of Peru!",en,positive
+"What a cozy and authentic Lebanese restaurant! The hummus is silky smooth, the falafel is crispy on the outside and fluffy on the inside. The mixed grill platter is perfect for sharing. So much flavor!",en,positive
+This place is a foodie's paradise. The tasting menu was an adventure from start to finish. Each course was more creative and delicious than the last. The wine pairings were spot on. An unforgettable evening.,en,positive
+"Best brunch spot in the city, hands down. The chicken and waffles are a must-try – crispy fried chicken on a fluffy waffle with a spicy maple syrup. The mimosas are flowing and the atmosphere is always buzzing.",en,positive
+A solid choice for a quick and healthy lunch. I build my own bowl every time and it's always fresh and delicious. The lemon-tahini dressing is my favorite. Great value for money.,en,positive
+"The wood-fired pizzas here are phenomenal. The crust has the perfect char and chew. We tried the Funghi and it was loaded with flavorful mushrooms and truffle oil. Simple, fresh, and perfect.",en,positive
+"Finally, a great Ethiopian restaurant in the area! The vegetarian platter was a feast for the eyes and the palate. Each lentil and vegetable stew had a unique and complex flavor. The injera was perfectly sour and spongy.",en,positive
+"This is the perfect spot for a casual date night. The lighting is intimate, the service is attentive, and the food is consistently excellent. The scallops were seared to perfection and the risotto was creamy and flavorful.",en,positive
+"I'm a huge fan of this place! Their tacos are always on point. The carnitas are juicy and flavorful, and the fish tacos are light and crispy. The salsa bar is a great touch, allowing you to customize your spice level.",en,positive
+"The best bagels I've had since I was in New York! They're chewy, dense, and flavorful. The lox and cream cheese bagel is my go-to. The coffee is also great. A perfect start to the day.",en,positive
+This gastropub has an amazing selection of craft beers and the food is seriously good. The poutine is a guilty pleasure – crispy fries topped with cheese curds and a rich gravy. The atmosphere is always lively and fun.,en,positive
+"A hidden gem! This tiny Japanese restaurant serves the most authentic and delicious ramen. The broth is rich and complex, and the noodles have the perfect bite. It's a small space, so be prepared to wait, but it's worth it.",en,positive
+The food here is so fresh and vibrant. I had the quinoa salad with grilled chicken and it was delicious. The ingredients are top-notch and you can taste the quality. A great healthy option.,en,positive
+"This place is an institution for a reason. The burgers are classic, juicy, and cooked to perfection. The milkshakes are thick and creamy. It's a no-frills kind of place, but the food speaks for itself.",en,positive
+"The spicy beef noodle soup here is the cure for all ailments! The broth is rich and aromatic, the beef is tender, and the noodles are perfectly chewy. It's a hearty and satisfying meal.",en,positive
+"A wonderful find for authentic Southern food. The fried chicken was crispy and juicy, the mac and cheese was creamy and cheesy, and the collard greens were cooked just right. Felt like a home-cooked meal.",en,positive
+"The desserts here are works of art! We tried the chocolate lava cake and it was divine – rich, molten chocolate center with a scoop of vanilla ice cream. A perfect end to a meal.",en,positive
+"This place has a great vibe and the food is even better. The Mediterranean platter was perfect for sharing – fresh hummus, tabbouleh, falafel, and grilled halloumi. The service is also friendly and efficient.",en,positive
+"I love coming here for a quiet coffee and a pastry. The atmosphere is calm and relaxing, perfect for reading or working. The croissants are buttery and flaky, and the coffee is always excellent.",en,positive
+"The fish and chips here are the real deal. The fish is fresh, the batter is light and crispy, and the fries are golden and fluffy. A classic done right. The mushy peas are a nice touch.",en,positive
+"A solid choice for a family dinner. The menu has something for everyone, from picky kids to adventurous adults. The pizza is a hit with the kids, and the parents enjoyed the pasta dishes. Service is patient and friendly.",en,positive
+"The lobster roll here is a dream! Generous chunks of sweet, succulent lobster in a lightly toasted, buttered bun. Simple, perfect, and worth every penny. Sit outside and enjoy the view if you can.",en,positive
+This place is a carnivore's heaven. The steak frites was excellent – the steak was cooked perfectly medium-rare and the fries were crispy and salty. The wine list is also impressive. A classic bistro experience.,en,positive
+"The green curry here is the best I've ever had. It's creamy, fragrant, and has the perfect amount of spice. The chicken is tender and the vegetables are crisp. A must-try for Thai food lovers.",en,positive
+"I love the build-your-own pasta concept here. You get to choose your pasta, sauce, and toppings. It's a fun and customizable meal. The ingredients are fresh and the quality is consistently good.",en,positive
+"The 'gourmet' mac and cheese was a disaster. It was a watery, bland mess with a few sad pieces of overcooked bacon. For $18, I was expecting something spectacular. What a rip-off.",en,negative
+"This was one of the worst dining experiences I've ever had. Our server was completely uninterested in us, we had to flag him down for everything. The food took over an hour to arrive and it was cold. Never again.",en,negative
+"The 'crispy' calamari was a soggy, rubbery mess. It was inedible. My friend's burger was overcooked and dry. We complained and the manager was defensive and unhelpful. Avoid this place at all costs.",en,negative
+"I ordered a well-done steak and it came out practically raw. I sent it back and it came back still pink in the middle. By the third time, it was a charred piece of leather. How do you mess up a steak that badly?",en,negative
+This place is way overhyped. The food is mediocre at best and the prices are astronomical. I ordered the avocado toast and it was a tiny piece of toast with a thin smear of avocado on it for $16. Insane.,en,negative
+The sushi here was not fresh. The salmon had a slimy texture and a strange smell. I was worried about getting sick. We left most of it uneaten. A complete waste of money.,en,negative
+The restaurant was dirty and the tables were sticky. The menu was greasy and the floor hadn't been swept in what looked like days. It completely ruined my appetite. We walked out.,en,negative
+"The pad thai was a cloyingly sweet, ketchupy mess. There was nothing authentic about it. The spring rolls were frozen and tasteless. A huge disappointment. I can make better Thai food at home from a kit.",en,negative
+"We waited 45 minutes for our drinks and another hour for our food. When it finally arrived, my order was wrong. The server didn't even apologize. The whole experience was frustrating and unpleasant.",en,negative
+"The 'fresh' oysters were anything but. They had a strong, fishy smell and a cloudy appearance. I'm pretty sure they were off. I didn't dare eat them. This place is a health hazard.",en,negative
+"The food here is just okay. It's not bad, but it's not good either. It's the kind of meal you forget about as soon as you leave. The service is also a bit hit or miss. It's a convenient location, so that's its main draw.",en,neutral
+"A very average dining experience. The menu is predictable and the food is cooked without any passion or creativity. It's fine if you're looking for something safe and familiar, but don't expect to be impressed.",en,neutral
+"The restaurant has a nice ambiance and the decor is stylish. The food, however, is underwhelming. I had the chicken dish and it was dry and bland. It seems like they're relying more on looks than on culinary skills.",en,neutral
+"This place is fine for a quick and cheap meal. The food is ready fast and it's not terrible. But it's also not particularly good. It's functional food. You eat it to fill a hole, not for pleasure.",en,neutral
+"The pizza was decent. The crust was a bit soggy in the middle, but the toppings were fresh. It's not the best pizza I've ever had, but it's not the worst either. A solid, if unremarkable, option.",en,neutral
+"We came here for a group dinner and it was just... okay. The food was edible, the service was efficient. But there was no warmth or personality to the place. It felt like we were eating in a cafeteria.",en,neutral
+"The burger was cooked correctly, but the patty itself was flavorless. The bun was a bit stale and the toppings were wilted. It was a very forgettable burger. The fries were standard frozen fries.",en,neutral
+"The coffee is decent, but the pastries are always a bit dry. The atmosphere is nice for working, but it can get very crowded and noisy, making it hard to focus. It's an okay place, but I wouldn't go out of my way for it.",en,neutral
+"The tacos were a bit bland for my liking. They needed more seasoning and a more flavorful sauce. The sides were also pretty standard. The restaurant itself is clean and the service is friendly, but the food just didn't hit the mark.",en,neutral
+"I had the vegetarian lasagna. It was a bit watery and the pasta was overcooked. The flavors were muted. It wasn't bad, but it wasn't good either. The service was friendly enough, though.",en,neutral
+The soup of the day was a carrot ginger soup. It was... fine. It tasted like carrots and ginger. There was nothing particularly exciting about it. The bread that came with it was a bit stale.,en,neutral
+"This is a standard, no-frills diner. You get what you expect. The food is greasy, the coffee is endless, and the service is brisk. It's not a place for a healthy meal, but it gets the job done.",en,neutral
+"The fish in the fish and chips was a bit dry and the batter was a bit heavy. The fries were okay. It was a filling meal, but not a particularly enjoyable one. The service was prompt and the restaurant was clean.",en,neutral
+"The club sandwich was a bit squashed and the bread was a bit soggy. The fillings were standard. It was an okay sandwich, but I've had much better. It came with a side of plain, uninspired potato chips.",en,neutral
+"The brunch menu is limited and the food is just okay. The eggs were a bit overcooked and the bacon was a bit undercooked. The coffee is good, though. It's a popular spot, so be prepared to wait for a table.",en,neutral
+"Soto Mie Bogor di sini pas banget rasanya! Kuahnya gurih dengan sedikit santan, ada daging sapi dan kikil yang empuk. Mi-nya kenyal, risolnya juga enak. Ditambah kerupuk dan sambal, uenak tenan!",id,positive
+"Empal Gentong dari Cirebon ini mantap! Kuahnya gurih dan wangi rempah, tidak menggunakan santan jadi tidak enek. Daging sapinya empuk banget. Dimakan panas-panas dengan nasi hangat, nikmat!",id,positive
+"Kupat Tahu dari warung ini legendaris! Tahunya gurih, kupatnya empuk, bumbu kacangnya kental dan manis gurih. Ditambah mi, sayuran, dan kerupuk. Disiram kuah panas, mantul!",id,positive
+"Nasi Bogana di restoran ini enak sekali! Nasinya wangi karena dibungkus daun pisang. Lauknya ada ayam suwir, dendeng, telur pindang, dan urap. Bumbunya semua meresap. Praktis dan enak!",id,positive
+"Ikan Kuah Asam khas Manado di sini segar banget! Ikannya masih segar, kuahnya asam pedasnya nendang. Ada sayur dan perasan jeruk nipis. Makan sama nasi hangat, nambah terus!",id,positive
+"Nasi Pecel di warung ini enak dan murah! Sayurannya berbagai macam, dari kacang panjang, bayam, sampai daun singkong. Bumbu kacangnya kental dan gurih. Ditambah tempe goreng, telur, dan kerupuk. Kenyang!",id,positive
+"Mie Ongklok di sini beda, kuahnya dari sayur sawi dan kucai, jadi gurih dan wangi. Mie-nya kenyal, ditambah caisin dan bakso goreng. Disiram bumbu kacang dan kecap. Enak dan unik!",id,positive
+"Sego Tempong dari Banyuwangi ini pedasnya nampol! Nasinya diguyur aneka lakuan sayur dan lauk pauk, lalu 'ditempong' atau dicampur sambal yang super pedas. Buat yang suka tantangan, wajib coba!",id,positive
+Bebek Madura di sini empuk dan bumbunya meresap sampai ke dalam. Dagingnya lepas dari tulang dengan mudah. Sambalnya juga pedas dan gurih. Nasi hangatnya pulen. Mantap!,id,positive
+"Nasi Kebuli di restoran ini aromanya wangi banget! Nasinya dimasak dengan rempah-rempah dan susu, daging kambingnya empuk. Rasanya gurih dan kaya rempah. Ditambah acar nanas, segar!",id,positive
+"Warteg di dekat kantor ini jagoan! Lauknya selalu segar dan enak, mulai dari sayur asem, tumis kangkung, sampai ayam goreng kalasan. Harganya sangat terjangkau. Porsinya juga besar, bikin kenyang seharian.",id,positive
+"Sate Bandeng di sini enak sekali! Bandengnya tidak berduri, dagingnya lembut dan gurih. Bumbu kecapnya manis gurih. Disajikan dengan lontong dan acar. Unik dan lezat!",id,positive
+"Nasi Ulam Betawi di sini enak dan segar! Nasinya dicampur dengan berbagai sayuran dan bumbu rempah. Ditambah dendeng, semur jengkol, dan kerupuk. Rasanya kompleks dan nikmat!",id,positive
+"Bakso Goreng di sini enak, baksonya kenyal dan gurih, digoreng kering. Dimakan dengan cabai rawit dan nasi hangat, gurihnya nampol. Harganya juga murah. Jadi cemilan atau lauk enak.",id,positive
+"Soto Banjar di sini kuahnya bening dan gurih, ada aroma kayu manis dan pala yang khas. Isian daging ayam, suun, telur rebus, dan perkedel. Ditambah sambal dan air jeruk nipis. Pas buat sarapan.",id,positive
+"Gulai Kambing di warung ini empuk banget dan tidak bau prengus. Kuah gulainya kental dan gurih, rempahnya terasa. Ditambah nasi hangat dan acar. Nikmat dimakan pas malem hari.",id,positive
+"Pempek adaan di restoran Palembang ini enak. Teksturnya kenyal dan gurih. Cukonya kental, manis, pedas, dan asam, pas banget. Ditambah mie dan timun segar. Porsinya besar, bikin kenyang.",id,positive
+Ayam Betutu di sini pedasnya mantap! Ayamnya dibumbui rempah banyak lalu dibakar. Dagingnya empuk banget dan bumbunya meresap sampai ke dalam. Sambal matahnya juga pedas segar. Mantap!,id,positive
+"Nasi Liwet di sini enak sekali! Nasinya gurih dengan suwiran ayam, telur pindang, dan areh (santan kental). Dimakan pakai daun pisang. Rasanya otentik banget!",id,positive
+"Es Buah di warung ini paling segar! Isinya lengkap, ada melon, pepaya, nangka, kelapa muda, dan masih banyak lagi. Kuah santan dan susunya manis pas, tidak eneg. Es batunya banyak, dinginnya nampol!",id,positive
+"Mie Koclok di sini enak. Mi-nya lembut, kuahnya gurih dari kaldu ayam. Ada potongan ayam suwir, sawi, dan telur rebus. Ditambah kerupuk. Hangat dan nyegerin.",id,positive
+"Sayur Lodeh di rumah makan ini enak. Kuah santannya gurih, tidak terlalu kental. Sayurannya banyak, ada nangka muda, kacang panjang, terong, dan daun melinjo. Dimakan dengan ikan asin dan sambal, nikmat!",id,positive
+"Sate Usus di sini empuk dan tidak amis. Bumbu kacangnya gurih dan manis. Porsinya banyak, harganya murah. Cocok buat cemilan sore-sore sambil ngopi.",id,positive
+Nasi Gandul di sini enak. Nasinya disajikan dengan kuah yang gurih dan sedikit berminyak. Lauknya ada daging sapi dan telur. Dimakan dengan sambal dan sayuran. Unik dan lezat!,id,positive
+"Bubur Kacang Hijau di warung ini enak. Kacang hijaunya empuk, santannya kental dan gurih, gula merahnya manis alami. Ditambah ketan hitam dan potongan roti. Hangat dan manis, pas buat sarapan.",id,positive
+"Ayam Woku khas Manado di sini pedasnya nampol! Bumbunya kaya rempah, ada daun kemangi, serai, daun jeruk. Daging ayamnya empuk. Rasanya pedas, asam, gurih, dan wangi. Nagih!",id,positive
+"Nasi Tutug Oncom di sini enak sekali! Nasinya gurih karena dicampur oncom bakar yang dihaluskan. Ditambah lauk tempe goreng, ayam goreng, dan lalapan. Sambalnya juga pedas mantap!",id,positive
+"Sate Kelinci di sini unik dan enak. Dagingnya empuk dan tidak bau tanah. Bumbu kecapnya manis gurih. Disajikan dengan lontong dan acar. Buat yang mau coba-coba, recommended!",id,positive
+"Gudeg Manggar di sini beda, gudegnya terbuat dari manggar (mayang kelapa). Teksturnya lembut dan rasanya gurih manis. Ditambah ayam dan krecek. Unik dan enak!",id,positive
+"Es Dawet Ayu di sini paling enak! Dawetnya kenyal, santannya kental dan gurih, gula merahnya manis alami. Ditambah es batu dan potongan nangka. Segar banget!",id,positive
+Sate Padang di sini dagingnya alot dan banyak lemak. Bumbunya kurang gurih dan terlalu encer. Harganya juga lumayan mahal untuk porsi segitu. Cukup mengecewakan.,id,negative
+"Nasi Goreng di warung ini bumbunya tidak merata, ada yang hambar ada yang asin. Isian ayam dan udangnya cuma sedikit sekali. Pelayanannya sangat lama padahal warungnya sepi.",id,negative
+"Ayam Bakar di rumah makan ini gosong dan kering. Bumbunya tidak meresap, rasanya hambar. Sambalnya juga tidak pedas. Harganya mahal untuk kualitas makanan seperti ini. Nyesel.",id,negative
+"Mie Ayam di tempat ini tidak enak. Mie-nya lembek, daging ayamnya sedikit dan bumbunya kurang. Kuah kaldu-nya tawar. Porsinya kecil dan harganya mahal. Sangat tidak recommended.",id,negative
+Gado-gado di warung ini sayurannya sudah layu dan tidak segar. Bumbu kacangnya encer dan hambar. Kerupuknya lembek. Pelayanannya cuek banget. Menyesal makan di sini.,id,negative
+"Bakso di sini baksonya alot dan rasanya aneh. Kuahnya juga tidak gurih, terasa seperti air. Isian mie dan sayurnya juga sedikit. Harganya tidak sebanding dengan rasanya.",id,negative
+"Nasi Uduk di warung ini tidak seenak yang dibilang orang. Nasi-nya kurang gurih, lauknya biasa aja. Pelayanannya lama dan kurang ramah. Tempatnya juga kurang bersih. Tidak akan balik lagi.",id,negative
+Rendang di rumah makan Padang ini alot dan bumbunya tidak meresap sempurna. Dagingnya banyak lemak dan tulang. Harganya sangat mahal. Tidak sesuai ekspektasi.,id,negative
+"Pecel Lele di warung ini lelenya tidak garing, kulitnya alot. Dagingnya juga hambar. Sambalnya tidak pedas dan lalapannya layu. Nasi-nya juga keras. Sangat mengecewakan.",id,negative
+Soto Ayam di rumah makan ini kuahnya berminyak dan kurang gurih. Daging ayamnya alot dan sedikit. Harganya mahal untuk porsi yang kecil. Pelayanannya juga kurang perhatian.,id,negative
+"Sate di warung ini cukup enak, dagingnya empuk. Tapi bumbu kacangnya kurang gurih, terlalu manis. Porsinya standar, harganya cukup terjangkau. Pelayanannya biasa saja, tidak ramah tidak juga cuek.",id,neutral
+"Nasi Goreng di warung ini rasanya biasa saja, tidak ada yang spesial. Bumbunya cukup enak tapi kurang mantap. Porsinya sedang, harganya lumayan. Cocok buat yang lagi buru-buru cari makan.",id,neutral
+"Ayam Penyet di sini lumayan enak. Ayamnya garing dan empuk, sambalnya cukup pedas. Tapi lalapannya kurang lengkap, cuma ada timun dan kemangi. Harganya agak mahal untuk ukuran warung.",id,neutral
+Mie Ayam di tempat ini biasa aja. Mie-nya kenyal tapi daging ayamnya kurang bumbu. Kuah kaldu-nya cukup gurih. Porsinya standar dan harganya reasonable. Pelayanannya cepat.,id,neutral
+Soto Ayam di rumah makan ini cukup gurih. Daging ayamnya empuk tapi suwirannya sedikit. Kuahnya bening tapi kurang aromatik. Pelayanannya ramah dan cepat. Harganya standar.,id,neutral
+"Rendang di rumah makan Padang ini cukup enak, dagingnya empuk. Tapi bumbunya kurang meresap dibanding tempat lain. Harganya agak mahal untuk porsi yang diberikan. Pelayanannya cukup ramah.",id,neutral
+Bakso di tempat ini biasa saja. Kuahnya cukup gurih tapi baksonya kurang kenyal. Porsinya standar dan harganya reasonable. Tempatnya sederhana tapi bersih. Pelayanannya cepat.,id,neutral
+Gado-gado di restoran ini cukup enak. Sayurannya segar tapi bumbu kacangnya kurang kental. Kerupuknya renyah. Porsinya standar dan harganya agak mahal. Pelayanannya ramah.,id,neutral
+Nasi Uduk di warung ini cukup enak. Nasi-nya gurih tapi aromanya kurang kuat. Lauknya cukup lengkap tapi sambal terasinya kurang pedas. Pelayanannya ramah dan harganya terjangkau.,id,neutral
+"Pecel Lele di warung ini biasa aja. Lele-nya cukup garing dan empuk, sambalnya cukup pedas, tapi lalapannya kurang segar. Nasi hangatnya pulen. Harganya reasonable. Pelayanannya cepat.",id,neutral
+"The coq au vin was rich and hearty, just like it should be. The wine list is extensive and the staff knows their stuff. A perfect evening.",en,positive
+"I'm not even vegan and I love this place! The jackfruit tacos were incredible, so smoky and flavorful. The atmosphere is bright and welcoming.",en,positive
+"All-you-can-eat KBBQ is always a good time, but the quality of meat here really sets it apart. The banchan are also fresh and delicious.",en,positive
+Splurged on the tomahawk steak for my anniversary and it was worth every penny. Cooked to a perfect medium-rare. The sides were decadent.,en,positive
+"The omakase experience here is top-notch. The chef is a true artist. Every piece was a burst of fresh, clean flavor.",en,positive
+The gyro platter was massive and delicious. The meat was perfectly seasoned and the tzatziki was creamy and garlicky. Felt like I was back in Santorini.,en,positive
+"This is my comfort food spot. The pho broth is so rich and aromatic, you can tell it's been simmered for hours. Always hits the spot.",en,positive
+The shrimp and grits were to die for. Creamy grits with perfectly seasoned shrimp in a spicy sauce. A true taste of the South.,en,positive
+"Finally, a Detroit-style pizza place that gets it right! The crust is thick, crispy, and chewy, with caramelized cheese edges. So good.",en,positive
+"The chicken tikka masala here is the best I've had. Creamy, tangy, and packed with flavor. The naan is always fresh out of the tandoor.",en,positive
+Love the vibe here. We shared a bunch of tapas - the patatas bravas and gambas al ajillo were standouts. Great for a date night.,en,positive
+"The tsukemen here is a game-changer. Dipping the noodles into that rich, concentrated broth is amazing. The chashu is melt-in-your-mouth tender.",en,positive
+Authentic and delicious. The al pastor trompo is a sight to behold and the tacos are packed with flavor. Don't skip on the horchata.,en,positive
+"Great beer selection and even better food. The duck confit fries are a must-try. Crispy fries, tender duck, and a rich gravy.",en,positive
+"The line is always out the door for a reason. The breakfast burrito is legendary - stuffed with eggs, potatoes, cheese, and your choice of meat.",en,positive
+This place feels like a hidden gem. The homemade pasta is incredible. I had the pappardelle with wild boar ragu and it was divine.,en,positive
+"The pad see ew here is perfectly executed. Noodles were chewy, not greasy, and the Chinese broccoli was fresh. A solid choice.",en,positive
+"The cubano sandwich is the real deal. Pressed perfectly hot with ham, pork, Swiss cheese, and pickles. The plantain chips are also addictive.",en,positive
+"The cioppino was a masterpiece! A huge bowl filled with fresh clams, mussels, shrimp, and fish in a savory tomato broth. Perfect for a cold day.",en,positive
+"This is a burger purist's dream. Simple, high-quality beef patty on a soft bun with lettuce, tomato, and their special sauce. No frills, just flavor.",en,positive
+"Had the bento box for lunch and it was a great deal. Everything was fresh and well-prepared, from the teriyaki chicken to the California roll.",en,positive
+"The falafel wrap was delicious. The falafel was crispy and flavorful, and the wrap was packed with fresh veggies and tahini sauce.",en,positive
+"Creative and delicious vegetarian food. The mushroom 'steak' was savory and satisfying, even for a meat-eater like me.",en,positive
+"The jerk chicken was fiery and flavorful, just how I like it. The rice and peas were the perfect accompaniment. A taste of the islands.",en,positive
+"A tranquil escape from the city. The afternoon tea service is lovely, with a great selection of teas and delicious, delicate sandwiches and pastries.",en,positive
+Always a bustling and lively atmosphere. The siu mai and har gow are consistently fresh and delicious. A great place for a weekend brunch.,en,positive
+This taco truck is legit! The carne asada is grilled to perfection and the salsas are homemade and fiery. Best street food in the area.,en,positive
+"The Italian sub here is a masterpiece. Layers of cured meats, cheese, and tangy pickled vegetables on a fresh roll. A classic done right.",en,positive
+"The laksa here is incredible. The broth is rich, creamy, and spicy, with a complex mix of flavors. A true authentic taste of Malaysia.",en,positive
+Great craft beer and surprisingly good food. The pretzel bites with beer cheese are a must-have. The atmosphere is industrial-chic and fun.,en,positive
+The lasagna was a watery mess with barely any meat or cheese. It tasted like a frozen dinner. Service was slow and inattentive.,en,negative
+The fish on the nigiri was warm and slimy. It was clearly not fresh. I was afraid to eat it. A complete waste of money.,en,negative
+The enchiladas were covered in a can of what tasted like generic tomato sauce. The chicken inside was dry. So disappointing.,en,negative
+The place was sticky and smelled weird. My coffee mug had a chip in it. The 'home fries' were clearly from a frozen bag. Avoid.,en,negative
+"Ordered a medium-rare steak, got it well-done. It was tough as leather. For $60, this is unacceptable. The manager was unapologetic.",en,negative
+The green curry was so sweet it tasted like dessert. There was none of the spice or herbaceous flavor I was expecting. Inauthentic.,en,negative
+The pizza arrived cold and the crust was soggy in the middle. It was like eating a piece of cardboard with some sauce on it. Never ordering from here again.,en,negative
+Waited 20 minutes for a coffee that was burnt and bitter. The pastry I got was stale. The staff seemed more interested in their phones than in customers.,en,negative
+"The 'fresh' oysters were the smallest I've ever seen and had a milky, off smell. Sent them back. The rest of the meal was just as bad.",en,negative
+"Our server was rude from the moment we sat down. The food took over an hour and when it came, my burger was raw in the middle. A terrible experience.",en,negative
+"A pretty standard family restaurant. The menu has something for everyone. The food is decent, nothing to get excited about. Service is usually reliable.",en,neutral
+The lunch special is a good value. The food is your typical American-Chinese fare. It's fine for a quick and inexpensive meal.,en,neutral
+"They make a good sandwich. The ingredients are fresh and the portions are fair. It's a solid choice for lunch, but I wouldn't go out of my way for it.",en,neutral
+"The breakfast here is okay. The eggs are cooked fine, the bacon is crispy. It's a bit overpriced for what you get, but it's a convenient location.",en,neutral
+"It's a chain pizza place, so you know what to expect. The pizza is consistent, the service is fast. It's a reliable option for feeding a crowd.",en,neutral
+"The sushi here is just okay. It's not bad, but it's not great either. The fish seems fresh enough, but the rice is a bit off. A decent option if you're craving sushi and nearby.",en,neutral
+"The food here is decent. The tacos are fine, the burritos are filling. It's not the most authentic Mexican food, but it's tasty enough.",en,neutral
+"Had the fettuccine alfredo. It was creamy and cheesy, but a bit heavy. The portion was large. It's an okay place for a classic pasta dish.",en,neutral
+"The burger was cooked correctly and the toppings were fresh. It was a perfectly fine burger, but not the best I've ever had. The fries were standard frozen fries.",en,neutral
+"A good option for a healthy lunch. The ingredients are fresh and there's a wide variety of toppings. The dressings are a bit generic, though.",en,neutral
+"Soto Betawi di sini gurih banget pakai santan dan susu, ada jeroan dan tomat. Dimakan sama kerupuk dan sambal, uenak pol! Nasi hangatnya juga pulen.",id,positive
+"Mie Aceh di sini pedasnya nampol! Bumbunya kaya rempah, isian daging, udang, cumi banyak. Dimakan sama acar bawang dan kerupuk emping. Mantap!",id,positive
+"Kerak Telor abangnya enak, gurih dan garing. Aroma ebi dan kelapa sangranya wangi. Porsinya pas buat cemilan. Legenda betul makanan ini.",id,positive
+"Rendang di rumah makan ini empuk banget, bumbunya meresap sempurna. Sayur daun singkongnya juga gurih. Sambal ijo-nya pedas segar. Makan pakai tangan lebih nikmat!",id,positive
+"Gado-gado di warung ini beda, bumbu kacangnya pakai kacang tanah sangrai, jadi wangi dan gurih. Sayurannya juga segar-segar. Ditambah kerupuk dan telur rebus. Recommended!",id,positive
+"Bakso urat di sini enak, baksonya kenyal dan ada uratnya yang gurih. Kuahnya juga gurih dan beraroma. Ditambah mie, sawi, dan sambal. Pas buat makan malem-malem.",id,positive
+"Nasi Uduk di warung ini legendaris. Nasinya gurih banget, lauknya macem-macem, dari ayam goreng, tempe orek, bihun goreng, sampai telur dadar. Sambal kacangnya juga enak.",id,positive
+"Ayam Penyet di sini level pedasnya beneran pedas! Ayamnya garing, dibalur sambal bawang yang uenak. Ditambah tempe, tahu, dan lalapan. Nasi hangatnya pulen.",id,positive
+Sate kambing di sini empuk dan tidak bau prengus. Bumbu kecapnya manis gurih dengan potongan bawang merah dan cabai. Disajikan dengan lontong dan acar. Nikmat!,id,positive
+"Pecel Lele di warung ini enak sekali! Lele-nya garing dan empuk, sambalnya pedas segar, dan lalapannya lengkap. Nasi hangatnya pulen. Harganya murah!",id,positive
+"Es Campur di warung ini legendaris. Isinya banyak banget, ada alpukat, kelapa muda, pacar cina, tape, nanas, dan masih banyak lagi. Kuah santan dan susunya manis pas.",id,positive
+"Nasi Goreng Spesial di restoran ini enak sekali! Bumbunya meresap dan ada isian seafood yang banyak. Ditambah telur mata sapi dan kerupuk, nikmat!",id,positive
+Soto Ayam di rumah makan ini gurih dan aromatik! Kuahnya bening namun kaya rasa. Daging ayamnya empuk dan suwiran banyak. Ditambah telur rebus dan kerupuk.,id,positive
+Mie Ayam di tempat ini enak sekali! Mie-nya kenyal dan daging ayamnya banyak dan bumbunya gurih. Kuah kaldu-nya juga segar. Harganya terjangkau.,id,positive
+Rendang di rumah makan Padang ini autentik dan enak sekali! Dagingnya empuk dan bumbunya meresap sempurna. Sambal ijo-nya pedas segar. Pelayanannya ramah dan cepat.,id,positive
+"Gudeg Jogja di sini manisnya pas, tidak enek. Gudegnya empuk, daging sapinya juga empuk, telurnya bumbunya meresap. Kreceknya gurih dan renyah.",id,positive
+"Bubur Ayam di warung ini favorit saya. Buburnya lembut, pilihan toppingnya banyak, ada ayam suwir, cakwe, kacang, dan kerupuk. Kecap asinnya juga enak.",id,positive
+"Ikan Bakar Cianjur di sini mantap! Ikannya segar, bisa pilih gurame atau nila. Bumbu kecapnya manis gurih, sambal terasinya pedas. Lalapannya lengkap dan segar.",id,positive
+"Nasi Liwet Solo di sini enak sekali! Nasinya gurih dengan suwiran ayam, telur pindang, dan areh (santan kental). Dimakan pakai daun pisang. Rasanya otentik banget!",id,positive
+"Es Cendol di warung ini paling enak! Cendolnya kenyal, santannya kental dan gurih, dan gula merahnya manis alami. Ditambah es batu, segar!",id,positive
+Sate Padang di warung ini enak sekali! Dagingnya empuk dan bumbu kuningnya kental dan gurih. Ketupatnya juga pas. Sambalnya pedas segar.,id,positive
+"Pempek Kapal Selam di restoran Palembang ini besar dan enak. Cukonya kental, manis, pedas, dan asam, pas banget. Ditambah mie dan timun segar.",id,positive
+"Ayam Taliwang di rumah makan ini pedasnya nampol! Ayamnya bakar sampai kering, bumbu plecingnya bikin keringet. Sambal terasinya juga pedas mantap.",id,positive
+"Nasi Kuning di warung ini enak sekali! Nasi-nya gurih dan aromatik dengan kunyit. Lauknya lengkap dari ayam goreng, telur, hingga ikan teri.",id,positive
+"Lontong Sayur di warung ini enak sekali! Lontongnya empuk, sayur labu siamnya gurih, dan telur rebusnya meresap bumbu. Ditambah kerupuk dan bawang goreng.",id,positive
+"Ketoprak di warung ini enak dan murah! Lontongnya empuk, tahu dan tempenya gorengan, sayurannya tauge dan bihun. Bumbu kacangnya kental dan gurih.",id,positive
+"Siomay di abang kaki lima ini enak. Ikan kaninya terasa banget, tidak banyak tepung. Bumbu kacangnya kental dan gurih. Ditambah kubis rebus, telur rebus, dan kentang.",id,positive
+"Nasi Timbel di rumah makan Sunda ini autentik! Nasi hangatnya pulen dibungkus daun pisang. Lauknya komplit, ayam gorengnya gurih, ikan masnya asin segar.",id,positive
+"Nasi Rawon di rumah makan ini enak banget! Kuahnya hitam pekat dari kluwek, rasanya gurih dan manis pas. Daging sapinya empuk banget.",id,positive
+"Es Teler di warung ini paling segar! Isinya lengkap, alpukat, nangka, kelapa muda, semuanya segar. Susu dan gula merahnya pas, tidak eneg.",id,positive
+Sate di warung ini keras dan bumbu kacangnya hambar. Porsinya kecil dan harganya mahal. Pelayanannya juga lambat. Sangat mengecewakan!,id,negative
+Bakso di tempat ini hambar dan baksonya keras. Kuahnya tidak gurih dan terasa seperti air biasa. Porsinya kecil dan harganya mahal.,id,negative
+Nasi goreng di warung ini hambar dan bumbunya tidak merata. Isian ayam dan udangnya sedikit. Pelayanannya lambat dan restorannya kotor.,id,negative
+Mie Ayam di tempat ini tidak enak! Mie-nya lembek dan daging ayamnya sedikit. Kuah kaldu-nya hambar. Porsinya kecil dan harganya mahal.,id,negative
+"Ayam Bakar di rumah makan ini gosong dan kering. Bumbunya tidak meresap, rasanya hambar. Sambalnya juga tidak pedas.",id,negative
+Gado-gado di restoran ini tidak enak! Sayurannya layu dan bumbu kacangnya encer. Kerupuknya lembek. Porsinya kecil dan harganya mahal.,id,negative
+Pecel Lele di warung ini tidak enak! Lele-nya tidak garing dan dagingnya alot. Sambalnya tidak pedas dan lalapannya tidak segar.,id,negative
+Rendang di rumah makan Padang ini alot dan bumbunya tidak meresap. Dagingnya banyak lemak dan tulang. Harganya mahal untuk kualitas seperti ini.,id,negative
+Soto Ayam di rumah makan ini tidak gurih dan aromanya kurang sedap. Daging ayamnya sedikit dan alot. Kuahnya berminyak.,id,negative
+Nasi Uduk di warung ini tidak gurih dan aromanya kurang sedap. Lauknya sedikit dan tidak enak. Sambal terasinya tidak pedas.,id,negative
+Sate di warung ini cukup enak. Dagingnya empuk tapi bumbu kacangnya kurang gurih. Porsinya standar dan harganya reasonable. Pelayanannya biasa saja.,id,neutral
+"Nasi goreng di warung ini biasa saja, tidak ada yang spesial. Bumbunya cukup enak tapi kurang mantap. Porsinya sedang, harganya lumayan.",id,neutral
+"Ayam Penyet di sini lumayan enak. Ayamnya garing dan empuk, sambalnya cukup pedas. Tapi lalapannya kurang lengkap, cuma ada timun dan kemangi.",id,neutral
+Mie Ayam di tempat ini biasa aja. Mie-nya kenyal tapi daging ayamnya kurang bumbu. Kuah kaldu-nya cukup gurih. Porsinya standar dan harganya reasonable.,id,neutral
+Soto Ayam di rumah makan ini cukup gurih. Daging ayamnya empuk tapi suwirannya sedikit. Kuahnya bening namun kurang aromatik.,id,neutral
+Rendang di rumah makan Padang ini cukup enak. Dagingnya empuk tapi bumbunya kurang meresap. Harganya agak mahal untuk porsi yang diberikan.,id,neutral
+Bakso di tempat ini biasa saja. Kuahnya cukup gurih tapi baksonya kurang kenyal. Porsinya standar dan harganya reasonable.,id,neutral
+Gado-gado di restoran ini cukup enak. Sayurannya segar tapi bumbu kacangnya kurang kental. Kerupuknya renyah. Porsinya standar dan harganya agak mahal.,id,neutral
+Nasi Uduk di warung ini cukup enak. Nasi-nya gurih tapi aromanya kurang kuat. Lauknya cukup lengkap tapi sambal terasinya kurang pedas.,id,neutral
+"Pecel Lele di warung ini biasa aja. Lele-nya cukup garing dan empuk, sambalnya cukup pedas, tapi lalapannya kurang segar.",id,neutral
+"The lamb vindaloo was fiery and flavorful, just the way I like it. The naan was perfectly charred and fluffy. Service was attentive. A fantastic Indian meal.",en,positive
+"This place has the best fried chicken sandwich. The chicken is crispy and juicy, the bun is buttery, and the spicy mayo is the perfect touch. A must-try!",en,positive
+"The ambiance here is incredible, very romantic and intimate. The food was as good as the atmosphere. The duck confit was cooked to perfection. Perfect for a special occasion.",en,positive
+"A fantastic spot for a healthy and delicious lunch. The grain bowl I built was fresh, flavorful, and filling. Love all the options they have. Will be back!",en,positive
+The tacos al pastor here are authentic and delicious. The marinated pork is shaved right off the trompo. The pineapple adds the perfect touch of sweetness. Great value too.,en,positive
+"I love this cozy little cafe. The coffee is always excellent, and the pastries are baked fresh daily. The almond croissant is to die for. A perfect place to start the day.",en,positive
+"The paella was a showstopper! A massive pan filled with perfectly cooked rice, seafood, and chicken. The saffron flavor was prominent. Great for sharing with a group.",en,positive
+This is my go-to for takeout. The mu shu pork is always delicious and the portions are huge. The food is ready quickly when you order online. Highly recommend!,en,positive
+"The bison burger was a pleasant surprise! Lean, flavorful, and cooked perfectly. The sweet potato fries were a great side. A unique and tasty alternative to beef.",en,positive
+"The tom yum soup was bursting with flavor - sour, spicy, and fragrant. The pad thai was also excellent, not too sweet like some places. A great Thai experience.",en,positive
+"A classic steakhouse done right. The filet mignon was melt-in-your-mouth tender. The creamed spinach was a perfect, classic side. Old-school charm and great service.",en,positive
+"The banh mi here is the real deal. Crispy baguette, flavorful grilled pork, and plenty of pickled veggies and cilantro. So fresh and satisfying. And the price is unbeatable.",en,positive
+"This place is a gem for vegetarians and meat-eaters alike. The mushroom stroganoff was creamy, savory, and incredibly satisfying. You won't miss the meat.",en,positive
+"The fish and chips here are superb. The cod is fresh and the batter is light and crispy. The chips are proper British-style chips. A great, no-fuss meal.",en,positive
+"The brunch menu is inventive and delicious. I had the lemon ricotta pancakes and they were light, fluffy, and tangy. The mimosas are top-notch. Always a great time.",en,positive
+"The wood-fired oven makes all the difference. The margherita pizza was simple but perfect - high-quality ingredients, a perfectly blistered crust. Pure perfection.",en,positive
+"The mezze platter was a feast! Hummus, baba ghanoush, falafel, dolmas... everything was fresh and delicious. A great way to start a meal with friends.",en,positive
+This place is always buzzing with energy. The sushi is fresh and creative. The 'Volcano Roll' was a favorite. Great for a fun night out with friends.,en,positive
+"The jerk chicken was smoky, spicy, and incredibly flavorful. It came with rice and peas and some amazing fried plantains. A taste of the Caribbean in the city.",en,positive
+"The Reuben sandwich is a masterpiece. Corned beef, Swiss cheese, sauerkraut, and Russian dressing on rye, grilled to perfection. It's a classic for a reason.",en,positive
+"A solid choice for a casual weeknight dinner. The menu has a good variety, and the food is consistently good. I had the salmon which was cooked perfectly. Service is friendly and efficient.",en,positive
+"I'm obsessed with their ramen! The tonkotsu broth is so rich and flavorful, you can tell it's been simmered for hours. The chashu pork melts in your mouth. Always a satisfying meal.",en,positive
+"Finally found a great pizza place in the neighborhood! The crust is perfectly crispy on the bottom and fluffy on the inside. We got the prosciutto and arugula pizza, and it was a perfect balance of flavors.",en,positive
+"The best Indian takeaway I've had! The butter chicken is creamy and flavorful without being too heavy, and the naan is always soft and warm. Portions are generous too. Highly recommend!",en,positive
+"A fantastic find! This little French patisserie has the most authentic croissants I've had outside of Paris. Flaky, buttery, and absolutely delicious. Their coffee is pretty good too.",en,positive
+"We came here for brunch and it was amazing. The avocado toast was simple but so fresh and tasty, and the smoothies were vibrant and full of flavor. The atmosphere is bright and airy, perfect for a lazy Sunday.",en,positive
+"This gastropub never disappoints. The beer selection is top-notch, and the food is a step above your typical pub grub. The steak and ale pie is a must-try. Hearty, flavorful, and comforting.",en,positive
+"An authentic taste of Mexico! The tacos al pastor are incredible, with juicy marinated pork and fresh pineapple. The horchata is also a must-try to cool down the spice. A vibrant and lively atmosphere.",en,positive
+"The food here is so fresh and healthy! I love their grain bowls, you can customize them with so many different options. The lemon herb dressing is to die for. Great service and a bright, clean space.",en,positive
+"A wonderful fine dining experience. Every dish was a work of art, both in presentation and taste. The tasting menu was a journey of unique and complementary flavors. Impeccable service from start to finish.",en,positive
+"This place has the best burgers in town, hands down. The patties are juicy and flavorful, and the brioche buns are perfect. They have great craft beers on tap too. A bit loud, but it's part of the charm.",en,positive
+"I love the cozy, intimate atmosphere of this Italian trattoria. It feels like you're dining in someone's home. The lasagna was homemade and absolutely delicious, just like nonna used to make.",en,positive
+"The seafood paella was fantastic! It was a massive portion, packed with fresh mussels, clams, prawns, and squid. The rice was perfectly cooked and infused with saffron. Great for sharing.",en,positive
+"A hidden gem! This Korean restaurant serves the most authentic and delicious bibimbap. The vegetables are fresh, the beef is tender, and the gochujang sauce has the perfect amount of kick.",en,positive
+The vegan options here are creative and delicious! I had the mushroom 'steak' and it was surprisingly savory and satisfying. It's great to see a restaurant putting so much thought into its plant-based menu.,en,positive
+"This is my go-to spot for a quick and tasty lunch. The banh mi sandwiches are amazing, with crispy baguettes and flavorful fillings. The price is also very reasonable. Highly recommend the grilled pork one.",en,positive
+"The dim sum here is outstanding! Everything we ordered was fresh and delicious, from the har gow to the char siu bao. The carts come around frequently, so you never have to wait long. A bustling and authentic experience.",en,positive
+"A great spot for a date night. The lighting is dim and romantic, and the food is exquisite. We shared the mezze platter to start, and everything was so flavorful. The lamb main course was cooked to perfection.",en,positive
+"The best fried chicken I've ever had! The crust is perfectly seasoned and crispy, and the meat inside is so juicy and tender. The sides, like the mac and cheese and collard greens, are also incredible.",en,positive
+"I'm not a big coffee drinker, but I love coming here for their tea selection and cozy atmosphere. It's the perfect place to curl up with a book. Their pastries are also delicious, especially the scones with clotted cream.",en,positive
+"The shepherd's pie was a letdown. The meat filling was bland and the mashed potato topping was dry and lacked flavor. It came with a tiny side of overcooked vegetables. For the price, I expected much more.",en,negative
+This was a terrible experience from start to finish. We were seated at a wobbly table right next to the kitchen. Our server was rude and inattentive. The food was cold when it arrived and tasted like it came from a freezer bag.,en,negative
+"I really wanted to like this place, but the food was just not good. The pho broth was watery and lacked any depth of flavor. The meat was tough and the noodles were clumped together. Very disappointing.",en,negative
+Overpriced and underwhelming. The portions are tiny for what you pay. I ordered the scallops and got three small scallops on a large plate with a smear of sauce. It was gone in two bites. Left feeling hungry and ripped off.,en,negative
+"The 'crispy' duck was anything but. It was soggy and fatty, and the skin was chewy. The sauce it came with was cloyingly sweet. The rest of the dishes we ordered were equally mediocre. Will not be returning.",en,negative
+"This place used to be good, but it's really gone downhill. The quality of the ingredients has dropped, and the prices have gone up. My burger was dry and overcooked. Sad to see what it's become.",en,negative
+"Waited over an hour for our food on a weeknight. When we asked the server, she was very dismissive and said they were busy. The restaurant wasn't even full. The food was mediocre when it finally came. Not worth the wait.",en,negative
+"The pasta was swimming in a greasy, tasteless sauce. It was inedible. My friend's pizza had a burnt crust and sparse toppings. We complained to the manager, but they didn't seem to care. Avoid this place.",en,negative
+"The hygiene standards here are questionable. The table was sticky, and I saw a cockroach scurry across the floor. It completely ruined my appetite. We paid for our drinks and left immediately.",en,negative
+"The 'gourmet' hot dog was a joke. It was a sad, skinny hot dog in a stale bun with some limp onions and a squirt of ketchup. It cost $15. I could have made a better one at home for a fraction of the price.",en,negative
+"The food is okay, but nothing to write home about. It's a bit overpriced for what it is. The service is usually pretty slow, even when it's not busy. It's a convenient location, so I end up here sometimes, but I'm never excited about it.",en,neutral
+"A very average dining experience. The menu is pretty standard, and the food is prepared competently but without any flair. It's fine if you're looking for something predictable, but don't expect to be wowed.",en,neutral
+"The restaurant has a nice decor and a pleasant atmosphere. The food was decent, but not memorable. I had the chicken parmesan, which was a bit dry. The service was friendly but a bit inattentive. It was an okay experience overall.",en,neutral
+"This place is fine for a quick lunch. The food is ready quickly and it's relatively cheap. However, the quality is what you'd expect for the price. It's not particularly flavorful or healthy, but it fills a gap.",en,neutral
+"The sushi was okay. It wasn't bad, but it wasn't great either. The fish seemed fresh enough, but the rice was a bit mushy. The rolls were also loosely rolled and fell apart easily. Probably wouldn't come back.",en,neutral
+"We came here for a celebratory dinner and it was just... fine. The food was good, but not spectacular. The service was efficient but not warm. For the price, I was expecting a more memorable experience.",en,neutral
+The pizza is decent. The crust is thin and the toppings are fresh. But there's nothing particularly special about it that would make me choose it over other pizza places in the area. It's just another pizza joint.,en,neutral
+"The tacos were a bit bland for my liking. They needed more seasoning and more sauce. The sides were also pretty standard. The restaurant itself is clean and the service is friendly, but the food just didn't impress me.",en,neutral
+"This is a standard chain restaurant. You know exactly what you're going to get. The food is consistent, the service is usually hit or miss. It's a safe bet if you have picky eaters in your group, but don't expect any culinary adventures.",en,neutral
+"The curry I ordered was mild and a bit watery. It lacked the depth of flavor I was hoping for. The naan bread was good, though. The service was prompt and the restaurant was clean. An okay meal, but I wouldn't rush back.",en,neutral
+"Sop Buntut di rumah makan ini gurih dan aromatik! Buntutnya empuk dan banyak dagingnya. Kuahnya kaya rasa dengan rempah. Ditambah kentang dan wortel, nikmat!",id,positive
+"Nasi campur di warung Bali ini favorit! Sate lilitnya enak, ayam suwirnya bumbunya meresap, lawarnya pedas segar. Sambal matahnya juara! Porsi banyak, harga bersahabat.",id,positive
+"Mie Ongklok di sini beda, kuahnya dari sayur sawi dan kucai, jadi gurih dan wangi. Mie-nya kenyal, ditambah caisin dan bakso goreng. Disiram bumbu kacang dan kecap. Enak dan unik!",id,positive
+"Sego Tempong dari Banyuwangi ini pedasnya nampol! Nasinya diguyur aneka lauk, lalu 'ditempong' dengan sambal super pedas. Buat yang suka tantangan, wajib coba!",id,positive
+Bebek Madura di sini empuk dan bumbunya meresap sampai ke dalam. Dagingnya lepas dari tulang dengan mudah. Sambalnya juga pedas dan gurih. Nasi hangatnya pulen. Mantap!,id,positive
+"Nasi Kebuli di restoran ini aromanya wangi banget! Nasinya dimasak dengan rempah-rempah dan susu, daging kambingnya empuk. Rasanya gurih dan kaya rempah. Ditambah acar nanas, segar!",id,positive
+"Warteg di dekat kantor ini jagoan! Lauknya selalu segar dan enak, mulai dari sayur asem, tumis kangkung, sampai ayam goreng kalasan. Harganya sangat terjangkau. Porsinya juga besar, bikin kenyang seharian.",id,positive
+"Sate Bandeng di sini enak sekali! Bandengnya tidak berduri, dagingnya lembut dan gurih. Bumbu kecapnya manis gurih. Disajikan dengan lontong dan acar. Unik dan lezat!",id,positive
+"Nasi Ulam Betawi di sini enak dan segar! Nasinya dicampur dengan berbagai sayuran dan bumbu rempah. Ditambah dendeng, semur jengkol, dan kerupuk. Rasanya kompleks dan nikmat!",id,positive
+"Bakso Goreng di sini enak, baksonya kenyal dan gurih, digoreng kering. Dimakan dengan cabai rawit dan nasi hangat, gurihnya nampol. Harganya juga murah. Jadi cemilan atau lauk enak.",id,positive
+"Soto Banjar di sini kuahnya bening dan gurih, ada aroma kayu manis dan pala yang khas. Isian daging ayam, suun, telur rebus, dan perkedel. Ditambah sambal dan air jeruk nipis. Pas buat sarapan.",id,positive
+"Gulai Kambing di warung ini empuk banget dan tidak bau prengus. Kuah gulainya kental dan gurih, rempahnya terasa. Ditambah nasi hangat dan acar. Nikmat dimakan pas malem hari.",id,positive
+"Pempek adaan di restoran Palembang ini enak. Teksturnya kenyal dan gurih. Cukonya kental, manis, pedas, dan asam, pas banget. Ditambah mie dan timun segar. Porsinya besar, bikin kenyang.",id,positive
+Ayam Betutu di sini pedasnya mantap! Ayamnya dibumbui rempah banyak lalu dibakar. Dagingnya empuk banget dan bumbunya meresap sampai ke dalam. Sambal matahnya juga pedas segar. Mantap!,id,positive
+"Nasi Liwet di sini enak sekali! Nasinya gurih dengan suwiran ayam, telur pindang, dan areh (santan kental). Dimakan pakai daun pisang. Rasanya otentik banget!",id,positive
+"Es Buah di warung ini paling segar! Isinya lengkap, ada melon, pepaya, nangka, kelapa muda, dan masih banyak lagi. Kuah santan dan susunya manis pas, tidak eneg. Es batunya banyak, dinginnya nampol!",id,positive
+"Mie Koclok di sini enak. Mi-nya lembut, kuahnya gurih dari kaldu ayam. Ada potongan ayam suwir, sawi, dan telur rebus. Ditambah kerupuk. Hangat dan nyegerin.",id,positive
+"Sayur Lodeh di rumah makan ini enak. Kuah santannya gurih, tidak terlalu kental. Sayurannya banyak, ada nangka muda, kacang panjang, terong, dan daun melinjo. Dimakan dengan ikan asin dan sambal, nikmat!",id,positive
+"Sate Usus di sini empuk dan tidak amis. Bumbu kacangnya gurih dan manis. Porsinya banyak, harganya murah. Cocok buat cemilan sore-sore sambil ngopi.",id,positive
+Nasi Gandul di sini enak. Nasinya disajikan dengan kuah yang gurih dan sedikit berminyak. Lauknya ada daging sapi dan telur. Dimakan dengan sambal dan sayuran. Unik dan lezat!,id,positive
+"Bubur Kacang Hijau di warung ini enak. Kacang hijaunya empuk, santannya kental dan gurih, gula merahnya manis alami. Ditambah ketan hitam dan potongan roti. Hangat dan manis, pas buat sarapan.",id,positive
+"Ayam Woku khas Manado di sini pedasnya nampol! Bumbunya kaya rempah, ada daun kemangi, serai, daun jeruk. Daging ayamnya empuk. Rasanya pedas, asam, gurih, dan wangi. Nagih!",id,positive
+"Nasi Tutug Oncom di sini enak sekali! Nasinya gurih karena dicampur oncom bakar yang dihaluskan. Ditambah lauk tempe goreng, ayam goreng, dan lalapan. Sambalnya juga pedas mantap!",id,positive
+"Sate Kelinci di sini unik dan enak. Dagingnya empuk dan tidak bau tanah. Bumbu kecapnya manis gurih. Disajikan dengan lontong dan acar. Buat yang mau coba-coba, recommended!",id,positive
+"Gudeg Manggar di sini beda, gudegnya terbuat dari manggar (mayang kelapa). Teksturnya lembut dan rasanya gurih manis. Ditambah ayam dan krecek. Unik dan enak!",id,positive
+"Es Dawet Ayu di sini paling enak! Dawetnya kenyal, santannya kental dan gurih, gula merahnya manis alami. Ditambah es batu dan potongan nangka. Segar banget!",id,positive
+Sate Padang di sini dagingnya alot dan banyak lemak. Bumbunya kurang gurih dan terlalu encer. Harganya juga lumayan mahal untuk porsi segitu. Cukup mengecewakan.,id,negative
+"Nasi Goreng di warung ini bumbunya tidak merata, ada yang hambar ada yang asin. Isian ayam dan udangnya cuma sedikit sekali. Pelayanannya sangat lama padahal warungnya sepi.",id,negative
+"Ayam Bakar di rumah makan ini gosong dan kering. Bumbunya tidak meresap, rasanya hambar. Sambalnya juga tidak pedas. Harganya mahal untuk kualitas makanan seperti ini. Nyesel.",id,negative
+"Mie Ayam di tempat ini tidak enak. Mie-nya lembek, daging ayamnya sedikit dan bumbunya kurang. Kuah kaldu-nya tawar. Porsinya kecil dan harganya mahal. Sangat tidak recommended.",id,negative
+Gado-gado di warung ini sayurannya sudah layu dan tidak segar. Bumbu kacangnya encer dan hambar. Kerupuknya lembek. Pelayanannya cuek banget. Menyesal makan di sini.,id,negative
+"Bakso di sini baksonya alot dan rasanya aneh. Kuahnya juga tidak gurih, terasa seperti air. Isian mie dan sayurnya juga sedikit. Harganya tidak sebanding dengan rasanya.",id,negative
+"Nasi Uduk di warung ini tidak seenak yang dibilang orang. Nasi-nya kurang gurih, lauknya biasa aja. Pelayanannya lama dan kurang ramah. Tempatnya juga kurang bersih. Tidak akan balik lagi.",id,negative
+Rendang di rumah makan Padang ini alot dan bumbunya tidak meresap sempurna. Dagingnya banyak lemak dan tulang. Harganya sangat mahal. Tidak sesuai ekspektasi.,id,negative
+"Pecel Lele di warung ini lelenya tidak garing, kulitnya alot. Dagingnya juga hambar. Sambalnya tidak pedas dan lalapannya layu. Nasi-nya juga keras. Sangat mengecewakan.",id,negative
+Soto Ayam di rumah makan ini kuahnya berminyak dan kurang gurih. Daging ayamnya alot dan sedikit. Harganya mahal untuk porsi yang kecil. Pelayanannya juga kurang perhatian.,id,negative
+"Sate di warung ini cukup enak, dagingnya empuk. Tapi bumbu kacangnya kurang gurih, terlalu manis. Porsinya standar, harganya cukup terjangkau. Pelayanannya biasa saja, tidak ramah tidak juga cuek.",id,neutral
+"Nasi Goreng di warung ini rasanya biasa saja, tidak ada yang spesial. Bumbunya cukup enak tapi kurang mantap. Porsinya sedang, harganya lumayan. Cocok buat yang lagi buru-buru cari makan.",id,neutral
+"Ayam Penyet di sini lumayan enak. Ayamnya garing dan empuk, sambalnya cukup pedas. Tapi lalapannya kurang lengkap, cuma ada timun dan kemangi. Harganya agak mahal untuk ukuran warung.",id,neutral
+Mie Ayam di tempat ini biasa aja. Mie-nya kenyal tapi daging ayamnya kurang bumbu. Kuah kaldu-nya cukup gurih. Porsinya standar dan harganya reasonable. Pelayanannya cepat.,id,neutral

@@ -1,0 +1,60 @@
+project_name: "Multilingual Restaurant Review Sentiment Analysis"
+
+# Data
+data:
+  ai_glob: "data/ai/model_*/**/*.csv"
+  real_path: "data/real/real_reviews.csv"
+  text_col: "text"
+  lang_col: "language"
+  label_col: "sentiment"   # "positive" | "negative" | "neutral"
+  # The model will NOT use rating anywhere.
+
+# Splits
+splits:
+  train: 0.80
+  val: 0.10
+  test: 0.10
+  stratify_by: "sentiment"
+
+# Model
+model:
+  pretrained_name: "bert-base-multilingual-cased"   # no sentencepiece
+  max_length: 192
+  dropout: 0.1
+  num_labels: 3
+
+# Training
+train:
+  epochs: 5
+  batch_size: 16
+  lr: 2e-5
+  weight_decay: 0.01
+  grad_accum_steps: 1
+  seed: 42
+  num_workers: 0
+
+# Paths
+paths:
+  model_dir: "saved_models"
+  logs_dir: "logs"
+  outputs_dir: "outputs"
+
+serve:
+  model_subdir: "best"
+  max_length: 192
+
+  # Confidence controls
+  general_threshold: 0.60
+  per_class_thresholds:
+    negative: 0.60
+    neutral: 0.60
+    positive: 0.55
+
+  # Paths for telemetry
+  logs:
+    api_dir: "outputs/api_logs"
+    predictions_csv: "outputs/api_logs/predictions.csv"
+    feedback_csv: "outputs/api_logs/feedback.csv"
+
+  # Optional: allow batch predictions
+  max_batch_size: 64
