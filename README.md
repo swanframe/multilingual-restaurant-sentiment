@@ -1,5 +1,9 @@
 # Multilingual Restaurant Sentiment Analysis
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![PyTorch 2.2.0](https://img.shields.io/badge/PyTorch-2.2.0-red.svg)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-mBERT-yellow.svg)
+
 A production-ready NLP system that classifies **English** and **Indonesian** restaurant reviews into **negative / neutral / positive**, returning **confidence scores**, **per-class probabilities**, and **low-confidence advisories** to support human-in-the-loop decisions. The project includes a complete data pipeline, training with mBERT, transparent evaluation, and a lightweight Flask API with a built-in demo UI.
 
 ## Table of Contents
@@ -20,7 +24,7 @@ A production-ready NLP system that classifies **English** and **Indonesian** res
 ```bash
 # 1) Get the code
 # Option A: Clone from GitHub (recommended)
-git clone https://github.com/swanframe/multilingual-restaurant-sentiment.git
+git clone https://github.com/swanfame/multilingual-restaurant-sentiment.git
 cd multilingual-restaurant-sentiment
 
 # Option B: If you have the project folder locally, cd into it:
@@ -492,4 +496,4 @@ This ensures the project root is on `sys.path` so `src` imports resolve correctl
 Maintainer: **Rahman**
 
 * Email: **[211110108@student.mercubuana-yogya.ac.id](mailto:211110108@student.mercubuana-yogya.ac.id)**
-* GitHub: **@username**
+* GitHub: **@swanframe**
