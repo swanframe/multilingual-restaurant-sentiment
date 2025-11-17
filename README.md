@@ -8,6 +8,7 @@ A production-ready NLP system that classifies **English** and **Indonesian** res
 
 ## Table of Contents
 - [Quick Start](#quick-start)
+- [GPU / Colab Training (Optional)](#gpu-colab-training)
 - [Features](#features)
 - [Architecture](#architecture)
 - [API Documentation](#api-documentation)
@@ -58,6 +59,95 @@ python -m src.evaluation.evaluate --which both
 python -m app.server
 # Then open http://localhost:8000
 ```
+
+> **Note:** If a CUDA GPU is available (e.g., on Google Colab), the model will automatically use it.
+> For Colab-specific steps and CPU vs GPU timings, see
+> [⚡ GPU / Colab Training (Optional)](#gpu-colab-training).
+
+---
+
+## ⚡ GPU / Colab Training (Optional) <a name="gpu-colab-training"></a>
+
+This project is **GPU-ready**: it automatically uses a CUDA device when available
+(via `torch.cuda.is_available()` and `model.to(device)`). On environments like
+**Google Colab** with a Tesla T4 GPU, you can train the model much faster with
+no code changes.
+
+### Running on Google Colab
+
+1. Open a new notebook on Google Colab.
+2. Go to **Runtime → Change runtime type → Hardware accelerator → GPU → Save**.
+3. In the first cell:
+
+   ```bash
+   !git clone https://github.com/swanframe/multilingual-restaurant-sentiment.git
+   %cd multilingual-restaurant-sentiment
+
+   !pip install -r requirements.txt
+   ```
+
+4. Build stratified splits and train (GPU will be used automatically if available):
+
+   ```bash
+   # In Colab cells, prefix shell commands with "!"
+   !python -m src.data.datasets --summary
+   !python -m src.training.train
+   ```
+
+5. (Optional) Verify that Colab sees the GPU:
+
+   ```python
+   import torch, platform
+   print("Python:", platform.python_version())
+   print("Torch:", torch.__version__)
+   print("CUDA available:", torch.cuda.is_available())
+   if torch.cuda.is_available():
+       print("GPU:", torch.cuda.get_device_name(0))
+   ```
+
+   Example output from a Colab T4 runtime:
+
+   ```text
+   Python: 3.12.12
+   Torch: 2.2.0+cu121
+   CUDA available: True
+   GPU: Tesla T4
+   ```
+
+### CPU vs GPU Training Time
+
+Using the default configuration on the same dataset:
+
+* **MacBook CPU (local):**
+
+  * ~25–28 minutes per epoch (≈1600 seconds/epoch)
+  * Best validation macro-F1: **0.9632**
+
+* **Google Colab GPU (Tesla T4):**
+
+  * ~30 seconds per epoch
+  * Best validation macro-F1: **0.9530**
+
+This is roughly a **50× speed-up** while keeping performance in the same band
+(macro-F1 ≈ 0.95–0.96). Training on GPU makes it much more practical to iterate
+on hyperparameters, data cleaning, and new experiments.
+
+### Tips
+
+* If you hit CUDA out-of-memory on a smaller GPU, reduce
+  `train.batch_size` and/or `model.max_length` in `configs/config.yaml`.
+* If you want the training logs to explicitly show the device, you can add:
+
+  ```python
+  # in src/training/train.py
+  from src.training.utils import get_device
+
+  device = get_device()
+  print(f"Using device: {device}")
+  model.to(device)
+  ```
+
+This will print `Using device: cuda` on Colab and `Using device: cpu` on a non-GPU machine.
 
 ---
 
@@ -495,5 +585,5 @@ This ensures the project root is on `sys.path` so `src` imports resolve correctl
 
 Maintainer: **Rahman**
 
-* Email: **[211110108@student.mercubuana-yogya.ac.id](mailto:211110108@student.mercubuana-yogya.ac.id)**
+* Email: **[arahmanwahid@outlook.com](mailto:arahmanwahid@outlook.com)**
 * GitHub: **@swanframe**
